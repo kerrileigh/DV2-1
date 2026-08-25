@@ -13,7 +13,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
 
-    df = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Ecommerce/Ecommerce_Dataset.csv")
+    df = pd.read_csv("Ecommerce_Dataset.csv")
 
     df["Order_Date"] = pd.to_datetime(df["Order_Date"])
 
