@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Location,Product_Category,Product_Name,Quantity_Purchased,Unit_Price_GBP,Total_Sales_GBP,Order_Date,Delivery_Time_Days,Shipping_Status,Customer_Rating,Returned,Return_Reason,Customer_Segment
+C1000,56,Female,London,Fashion,Jacket,5,58,290,2025-03-10,6,Delayed,4,No,None,Medium
+C1001,46,Male,Bristol,Fashion,Jacket,4,145,580,2025-05-28,7,Delayed,3,No,None,High
+C1002,32,Male,London,Electronics,Headphones,2,271,542,2025-01-16,4,On-Time,4,No,None,High
+C1003,60,Female,Liverpool,Fashion,Trainers,1,60,60,2025-11-03,6,Delayed,3,No,None,Low
+C1004,25,Male,Liverpool,Fashion,Trainers,2,64,128,2025-04-15,7,Delayed,4,No,None,Medium
+C1005,38,Female,Manchester,Home Goods,Vacuum,2,204,408,2025-06-14,4,On-Time,3,No,None,Medium
+C1006,56,Male,Sheffield,Fashion,Jacket,1,124,124,2025-07-20,8,Delayed,3,No,None,Medium
+C1007,36,Female,Liverpool,Electronics,Smartwatch,1,238,238,2025-07-16,9,Delayed,3,No,None,Medium
+C1008,40,Female,Manchester,Home Goods,Blender,5,178,890,2025-07-04,1,On-Time,5,No,None,High
+C1009,28,Male,Leeds,Electronics,Smartwatch,5,132,660,2025-11-18,7,Delayed,3,No,None,High
+C1010,28,Male,London,Fashion,T-Shirt,1,67,67,2025-09-22,9,Delayed,3,No,None,Low
+C1011,41,Male,Glasgow,Electronics,Laptop,3,887,2661,2025-12-29,10,Delayed,2,Yes,Wrong Item,Premium
+C1012,53,Male,Leeds,Fashion,Jacket,5,105,525,2025-04-10,5,On-Time,4,No,None,High
+C1013,57,Other,Liverpool,Home Goods,Blender,3,206,618,2025-12-08,2,On-Time,5,No,None,High
+C1014,41,Male,Leeds,Electronics,Smartphone,1,437,437,2025-11-16,10,Delayed,2,Yes,Late Delivery,Medium
+C1015,20,Female,Leeds,Home Goods,Vacuum,5,149,745,2025-08-02,6,Delayed,3,Yes,Late Delivery,High
+C1016,39,Male,Sheffield,Electronics,Smartwatch,2,243,486,2025-10-05,7,Delayed,4,No,None,Medium
+C1017,19,Female,Sheffield,Home Goods,Cookware Set,1,79,79,2025-06-11,2,On-Time,4,No,None,Low
+C1018,41,Female,Sheffield,Home Goods,Blender,4,235,940,2025-06-06,2,On-Time,5,No,None,High
+C1019,61,Female,Leeds,Home Goods,Cookware Set,3,36,108,2025-09-08,10,Delayed,3,No,None,Medium
+C1020,47,Male,Liverpool,Electronics,Smartphone,1,443,443,2025-04-07,10,Delayed,3,No,None,Medium
+C1021,55,Male,Glasgow,Home Goods,Cookware Set,1,35,35,2025-01-18,1,On-Time,4,No,None,Low
+C1022,19,Male,Bristol,Fashion,T-Shirt,5,60,300,2025-11-23,4,On-Time,4,No,None,Medium
+C1023,38,Female,Leeds,Electronics,Smartphone,5,722,3610,2025-04-07,7,Delayed,4,Yes,Changed Mind,Premium
+C1024,50,Female,Manchester,Home Goods,Chair,5,178,890,2025-01-01,9,Delayed,3,No,None,High
+C1025,29,Other,Liverpool,Electronics,Smartwatch,4,156,624,2025-08-04,3,On-Time,5,No,None,High
+C1026,39,Male,Leeds,Home Goods,Lamp,5,107,535,2025-05-12,7,Delayed,3,Yes,Late Delivery,High
+C1027,61,Female,Glasgow,Electronics,Laptop,1,728,728,2025-09-17,7,Delayed,3,Yes,Late Delivery,High
+C1028,42,Female,Bristol,Fashion,Trainers,5,40,200,2025-05-05,7,Delayed,2,Yes,Wrong Item,Medium
+C1029,44,Male,Sheffield,Fashion,T-Shirt,2,18,36,2025-03-23,2,On-Time,5,No,None,Low
+C1030,59,Male,Liverpool,Electronics,Headphones,5,120,600,2025-10-10,6,Delayed,3,No,None,High
+C1031,45,Female,Birmingham,Electronics,Headphones,4,203,812,2025-06-20,2,On-Time,5,No,None,High
+C1032,33,Female,Bristol,Electronics,Smartphone,2,605,1210,2025-02-28,6,Delayed,3,No,None,High
+C1033,32,Female,Manchester,Fashion,Trainers,1,41,41,2025-02-01,10,Delayed,2,No,None,Low
+C1034,64,Male,Leeds,Electronics,Headphones,1,144,144,2025-06-10,3,On-Time,5,No,None,Medium
+C1035,61,Female,Glasgow,Fashion,Jacket,3,120,360,2025-10-11,2,On-Time,4,No,None,Medium
+C1036,20,Male,Birmingham,Electronics,Laptop,2,824,1648,2025-04-16,6,Delayed,3,No,None,High
+C1037,54,Male,Glasgow,Electronics,Tablet,3,547,1641,2025-04-15,2,On-Time,5,No,None,High
+C1038,24,Male,Birmingham,Fashion,Jacket,2,135,270,2025-08-16,5,On-Time,4,No,None,Medium
+C1039,38,Female,Liverpool,Electronics,Headphones,2,114,228,2025-07-07,2,On-Time,5,No,None,Medium
+C1040,26,Female,Birmingham,Home Goods,Lamp,4,66,264,2025-03-11,3,On-Time,5,No,None,Medium
+C1041,56,Female,Manchester,Home Goods,Cookware Set,3,239,717,2025-11-14,3,On-Time,5,No,None,High
+C1042,35,Male,Manchester,Fashion,Jeans,4,67,268,2025-10-17,6,Delayed,4,No,None,Medium
+C1043,21,Female,London,Fashion,Jacket,2,145,290,2025-03-28,6,Delayed,4,No,None,Medium
+C1044,42,Male,Manchester,Home Goods,Chair,1,218,218,2025-12-28,10,Delayed,3,Yes,Damaged Product,Medium
+C1045,31,Female,Bristol,Electronics,Smartwatch,2,179,358,2025-02-25,3,On-Time,5,No,None,Medium
+C1046,26,Male,Birmingham,Electronics,Laptop,4,707,2828,2025-04-23,3,On-Time,5,No,None,Premium
+C1047,43,Male,Manchester,Electronics,Tablet,3,730,2190,2025-01-13,1,On-Time,4,No,None,Premium
+C1048,19,Male,Liverpool,Home Goods,Blender,3,173,519,2025-01-18,7,Delayed,2,Yes,Damaged Product,High
+C1049,37,Male,Glasgow,Electronics,Smartwatch,4,252,1008,2025-07-01,8,Delayed,3,No,None,High
+C1050,45,Female,Sheffield,Fashion,Jeans,3,54,162,2025-04-23,2,On-Time,5,Yes,Damaged Product,Medium
+C1051,64,Female,Glasgow,Home Goods,Cookware Set,5,69,345,2025-08-17,4,On-Time,4,No,None,Medium
+C1052,24,Male,London,Home Goods,Lamp,1,190,190,2025-06-20,10,Delayed,3,No,None,Medium
+C1053,61,Female,Glasgow,Fashion,Dress,1,114,114,2025-10-22,7,Delayed,2,Yes,Damaged Product,Medium
+C1054,25,Male,Birmingham,Electronics,Smartphone,1,792,792,2025-07-08,8,Delayed,1,Yes,Poor Quality,High
+C1055,64,Female,London,Home Goods,Blender,3,214,642,2025-03-20,1,On-Time,4,No,None,High
+C1056,52,Female,Birmingham,Fashion,Jacket,3,51,153,2025-05-26,4,On-Time,4,No,None,Medium
+C1057,31,Female,Liverpool,Electronics,Smartphone,2,494,988,2025-07-01,6,Delayed,3,No,None,High
+C1058,34,Male,London,Electronics,Headphones,2,283,566,2025-10-13,3,On-Time,5,No,None,High
+C1059,53,Female,Leeds,Home Goods,Blender,1,46,46,2025-09-07,5,On-Time,4,No,None,Low
+C1060,57,Female,Bristol,Fashion,Trainers,5,83,415,2025-12-20,10,Delayed,2,Yes,Changed Mind,Medium
+C1061,21,Male,Bristol,Home Goods,Blender,2,213,426,2025-11-10,9,Delayed,2,No,None,Medium
+C1062,19,Male,Birmingham,Home Goods,Chair,2,68,136,2025-07-15,3,On-Time,5,No,None,Medium
+C1063,23,Female,Glasgow,Fashion,Jeans,3,30,90,2025-11-19,5,On-Time,3,No,None,Low
+C1064,59,Female,Sheffield,Fashion,T-Shirt,5,16,80,2025-03-12,8,Delayed,1,Yes,Late Delivery,Low
+C1065,21,Female,Sheffield,Fashion,Jeans,1,74,74,2025-09-05,6,Delayed,3,No,None,Low
+C1066,46,Female,Leeds,Electronics,Smartphone,2,993,1986,2025-05-26,4,On-Time,4,No,None,High
+C1067,35,Female,London,Fashion,Jeans,5,44,220,2025-04-16,8,Delayed,2,No,None,Medium
+C1068,43,Male,Leeds,Home Goods,Lamp,5,103,515,2025-09-20,3,On-Time,5,No,None,High
+C1069,61,Male,Leeds,Fashion,Trainers,1,67,67,2025-10-23,3,On-Time,5,No,None,Low
+C1070,51,Male,Glasgow,Home Goods,Lamp,5,47,235,2025-03-11,4,On-Time,4,No,None,Medium
+C1071,27,Female,Sheffield,Fashion,Jacket,5,64,320,2025-07-12,9,Delayed,2,Yes,Poor Quality,Medium
+C1072,53,Male,London,Fashion,Dress,5,135,675,2025-03-09,5,On-Time,4,No,None,High
+C1073,31,Female,Liverpool,Fashion,Trainers,2,39,78,2025-11-01,8,Delayed,3,No,None,Low
+C1074,48,Female,Glasgow,Fashion,Dress,1,99,99,2025-02-21,6,Delayed,3,No,None,Low
+C1075,65,Female,Leeds,Fashion,Trainers,5,71,355,2025-12-29,3,On-Time,5,No,None,Medium
+C1076,32,Male,Leeds,Electronics,Smartphone,5,660,3300,2025-10-12,8,Delayed,1,Yes,Poor Quality,Premium
+C1077,25,Female,Liverpool,Fashion,T-Shirt,2,56,112,2025-11-30,9,Delayed,2,Yes,Late Delivery,Medium
+C1078,31,Male,Leeds,Electronics,Tablet,1,502,502,2025-01-09,8,Delayed,2,Yes,Late Delivery,High
+C1079,40,Female,Leeds,Electronics,Headphones,3,214,642,2025-09-08,4,On-Time,5,No,None,High
+C1080,57,Male,Leeds,Fashion,Dress,2,119,238,2025-11-28,6,Delayed,3,No,None,Medium
+C1081,38,Male,Bristol,Fashion,Trainers,1,51,51,2025-10-25,1,On-Time,5,No,None,Low
+C1082,33,Female,Glasgow,Home Goods,Lamp,5,204,1020,2025-07-03,4,On-Time,5,No,None,High
+C1083,62,Male,Manchester,Fashion,Jacket,1,123,123,2025-06-28,8,Delayed,3,No,None,Medium
+C1084,35,Male,Glasgow,Fashion,Trainers,1,56,56,2025-07-17,1,On-Time,4,No,None,Low
+C1085,64,Female,Liverpool,Fashion,Jacket,1,80,80,2025-05-08,3,On-Time,5,No,None,Low
+C1086,41,Female,Leeds,Fashion,Jeans,3,48,144,2025-01-20,1,On-Time,5,No,None,Medium
+C1087,43,Female,Glasgow,Electronics,Tablet,1,359,359,2025-11-24,9,Delayed,3,No,None,Medium
+C1088,42,Female,Bristol,Electronics,Headphones,3,267,801,2025-03-06,2,On-Time,4,No,None,High
+C1089,62,Female,Sheffield,Electronics,Laptop,5,1200,6000,2025-07-01,9,Delayed,2,Yes,Changed Mind,Premium
+C1090,58,Male,Liverpool,Fashion,Trainers,3,95,285,2025-08-29,4,On-Time,5,No,None,Medium
+C1091,46,Male,Birmingham,Electronics,Smartwatch,5,61,305,2025-01-24,2,On-Time,5,No,None,Medium
+C1092,32,Male,Glasgow,Electronics,Headphones,5,217,1085,2025-03-24,4,On-Time,4,No,None,High
+C1093,62,Female,Birmingham,Electronics,Smartphone,3,372,1116,2025-11-15,10,Delayed,2,No,None,High
+C1094,18,Female,Leeds,Home Goods,Chair,2,95,190,2025-07-04,6,Delayed,3,No,None,Medium
+C1095,42,Male,Bristol,Electronics,Tablet,4,400,1600,2025-11-12,7,Delayed,4,No,None,High
+C1096,24,Male,Bristol,Fashion,T-Shirt,1,24,24,2025-04-09,3,On-Time,5,No,None,Low
+C1097,26,Female,Glasgow,Electronics,Smartphone,4,804,3216,2025-03-03,3,On-Time,5,No,None,Premium
+C1098,41,Male,Liverpool,Fashion,Jeans,1,62,62,2025-10-13,10,Delayed,3,No,None,Low
+C1099,18,Female,Liverpool,Electronics,Smartphone,1,338,338,2025-01-22,8,Delayed,2,No,None,Medium
+C1100,61,Female,Bristol,Electronics,Smartphone,5,359,1795,2025-07-31,5,On-Time,5,No,None,High
+C1101,25,Female,Liverpool,Fashion,Dress,1,105,105,2025-05-06,4,On-Time,4,Yes,Damaged Product,Medium
+C1102,41,Male,Bristol,Electronics,Smartwatch,1,114,114,2025-02-11,7,Delayed,3,No,None,Medium
+C1103,28,Female,Glasgow,Electronics,Headphones,3,228,684,2025-04-08,7,Delayed,3,No,None,High
+C1104,34,Female,Manchester,Electronics,Smartwatch,4,173,692,2025-01-31,9,Delayed,2,Yes,Wrong Item,High
+C1105,25,Female,Bristol,Electronics,Tablet,3,607,1821,2025-06-07,9,Delayed,1,Yes,Poor Quality,High
+C1106,52,Female,Birmingham,Electronics,Smartwatch,1,295,295,2025-04-22,5,On-Time,4,No,None,Medium
+C1107,52,Female,Liverpool,Electronics,Tablet,5,585,2925,2025-09-04,8,Delayed,2,Yes,Wrong Item,Premium
+C1108,50,Female,Bristol,Home Goods,Lamp,3,178,534,2025-05-02,10,Delayed,2,Yes,Changed Mind,High
+C1109,22,Male,Bristol,Fashion,Trainers,3,86,258,2025-09-30,1,On-Time,5,No,None,Medium
+C1110,59,Female,Glasgow,Fashion,Trainers,2,107,214,2025-10-21,9,Delayed,2,Yes,Changed Mind,Medium
+C1111,56,Female,Liverpool,Electronics,Smartwatch,1,243,243,2025-07-26,8,Delayed,2,No,None,Medium
+C1112,58,Male,Manchester,Home Goods,Chair,5,48,240,2025-04-20,6,Delayed,2,Yes,Late Delivery,Medium
+C1113,45,Female,Glasgow,Electronics,Laptop,3,1126,3378,2025-10-05,3,On-Time,5,No,None,Premium
+C1114,24,Female,Manchester,Electronics,Laptop,3,1123,3369,2025-02-25,3,On-Time,5,No,None,Premium
+C1115,26,Female,Sheffield,Fashion,Jacket,5,140,700,2025-02-26,8,Delayed,2,No,None,High
+C1116,25,Male,Glasgow,Electronics,Smartphone,1,455,455,2025-10-18,5,On-Time,3,No,None,Medium
+C1117,29,Male,Liverpool,Electronics,Smartphone,2,639,1278,2025-04-24,10,Delayed,3,Yes,Wrong Item,High
+C1118,51,Other,London,Fashion,T-Shirt,3,38,114,2025-11-04,7,Delayed,2,No,None,Medium
+C1119,50,Female,Liverpool,Home Goods,Cookware Set,2,168,336,2025-12-07,5,On-Time,4,No,None,Medium
+C1120,65,Male,Liverpool,Fashion,Jacket,4,49,196,2025-07-17,8,Delayed,1,No,None,Medium
+C1121,40,Female,Manchester,Fashion,T-Shirt,1,32,32,2025-11-17,10,Delayed,3,No,None,Low
+C1122,41,Female,Manchester,Home Goods,Chair,4,235,940,2025-06-28,10,Delayed,2,Yes,Changed Mind,High
+C1123,54,Female,Liverpool,Electronics,Smartwatch,4,191,764,2025-08-07,4,On-Time,5,No,None,High
+C1124,52,Female,Liverpool,Electronics,Tablet,4,327,1308,2025-10-04,2,On-Time,4,No,None,High
+C1125,61,Male,Liverpool,Electronics,Smartwatch,1,107,107,2025-01-16,3,On-Time,5,No,None,Medium
+C1126,57,Male,Manchester,Fashion,Jeans,1,36,36,2025-03-02,8,Delayed,2,Yes,Late Delivery,Low
+C1127,39,Male,Liverpool,Fashion,Dress,5,109,545,2025-02-23,7,Delayed,3,No,None,High
+C1128,44,Female,Liverpool,Home Goods,Blender,2,55,110,2025-06-17,2,On-Time,5,No,None,Medium
+C1129,52,Male,Sheffield,Fashion,Jacket,2,84,168,2025-01-26,6,Delayed,4,Yes,Wrong Item,Medium
+C1130,18,Male,Leeds,Fashion,Dress,5,75,375,2025-12-02,9,Delayed,2,Yes,Changed Mind,Medium
+C1131,52,Male,London,Electronics,Headphones,5,71,355,2025-03-06,4,On-Time,5,No,None,Medium
+C1132,54,Female,Birmingham,Home Goods,Lamp,4,225,900,2025-04-10,9,Delayed,2,Yes,Changed Mind,High
+C1133,64,Female,London,Home Goods,Blender,5,146,730,2025-03-15,2,On-Time,5,No,None,High
+C1134,31,Male,Leeds,Home Goods,Lamp,3,99,297,2025-07-11,2,On-Time,5,Yes,Late Delivery,Medium
+C1135,20,Male,Birmingham,Electronics,Tablet,2,555,1110,2025-06-20,9,Delayed,2,No,None,High
+C1136,18,Female,Glasgow,Fashion,Trainers,5,85,425,2025-09-30,7,Delayed,3,No,None,Medium
+C1137,22,Male,Liverpool,Electronics,Tablet,3,295,885,2025-07-06,7,Delayed,3,No,None,High
+C1138,43,Male,Leeds,Electronics,Laptop,3,763,2289,2025-01-23,1,On-Time,5,No,None,Premium
+C1139,31,Male,Sheffield,Electronics,Headphones,3,197,591,2025-06-30,6,Delayed,2,Yes,Late Delivery,High
+C1140,56,Male,Glasgow,Fashion,Dress,3,57,171,2025-11-23,7,Delayed,3,Yes,Wrong Item,Medium
+C1141,44,Male,Liverpool,Fashion,Trainers,4,67,268,2025-04-18,6,Delayed,3,No,None,Medium
+C1142,26,Female,Manchester,Electronics,Smartwatch,3,244,732,2025-12-01,6,Delayed,3,No,None,High
+C1143,32,Male,Bristol,Electronics,Laptop,4,1079,4316,2025-06-11,2,On-Time,4,No,None,Premium
+C1144,32,Female,Leeds,Fashion,Jeans,4,30,120,2025-10-29,6,Delayed,4,No,None,Medium
+C1145,43,Male,Manchester,Electronics,Smartwatch,3,236,708,2025-07-25,4,On-Time,4,No,None,High
+C1146,59,Female,Leeds,Electronics,Smartwatch,2,246,492,2025-03-19,9,Delayed,2,No,None,Medium
+C1147,30,Female,Sheffield,Fashion,Trainers,3,97,291,2025-01-16,1,On-Time,5,No,None,Medium
+C1148,49,Male,Leeds,Home Goods,Vacuum,3,168,504,2025-11-23,8,Delayed,2,Yes,Late Delivery,High
+C1149,56,Female,Manchester,Electronics,Headphones,3,153,459,2025-04-06,5,On-Time,4,No,None,Medium
+C1150,49,Male,Sheffield,Electronics,Smartphone,2,761,1522,2025-05-27,1,On-Time,4,No,None,High
+C1151,21,Other,Birmingham,Electronics,Smartwatch,1,280,280,2025-01-02,4,On-Time,3,No,None,Medium
+C1152,47,Male,London,Home Goods,Cookware Set,1,242,242,2025-01-10,1,On-Time,5,No,None,Medium
+C1153,54,Male,Liverpool,Fashion,Jacket,4,117,468,2025-05-05,6,Delayed,3,No,None,Medium
+C1154,40,Male,Leeds,Fashion,Dress,4,109,436,2025-03-22,2,On-Time,5,No,None,Medium
+C1155,56,Other,Liverpool,Electronics,Headphones,2,189,378,2025-05-20,5,On-Time,4,No,None,Medium
+C1156,62,Female,Bristol,Fashion,T-Shirt,5,30,150,2025-11-22,7,Delayed,4,No,None,Medium
+C1157,32,Female,Manchester,Electronics,Laptop,1,936,936,2025-05-30,2,On-Time,5,No,None,High
+C1158,60,Male,Liverpool,Fashion,Jacket,4,148,592,2025-10-15,6,Delayed,3,No,None,High
+C1159,46,Female,Manchester,Home Goods,Lamp,1,106,106,2025-12-27,6,Delayed,3,No,None,Medium
+C1160,53,Male,Liverpool,Fashion,Jeans,2,28,56,2025-12-06,5,On-Time,4,No,None,Low
+C1161,30,Female,London,Home Goods,Vacuum,2,80,160,2025-05-09,5,On-Time,5,No,None,Medium
+C1162,49,Male,London,Fashion,Jacket,5,110,550,2025-08-27,3,On-Time,5,No,None,High
+C1163,24,Male,Sheffield,Electronics,Smartphone,5,857,4285,2025-02-27,10,Delayed,1,Yes,Poor Quality,Premium
+C1164,39,Male,London,Home Goods,Cookware Set,2,51,102,2025-07-17,10,Delayed,2,Yes,Damaged Product,Medium
+C1165,45,Male,Sheffield,Electronics,Laptop,4,1126,4504,2025-07-30,2,On-Time,5,No,None,Premium
+C1166,19,Female,London,Fashion,Jacket,1,83,83,2025-02-14,7,Delayed,3,No,None,Low
+C1167,59,Male,London,Electronics,Tablet,3,600,1800,2025-04-07,1,On-Time,4,Yes,Wrong Item,High
+C1168,62,Female,London,Electronics,Laptop,5,909,4545,2025-10-06,6,Delayed,3,No,None,Premium
+C1169,23,Male,Manchester,Fashion,Dress,3,150,450,2025-01-23,6,Delayed,3,No,None,Medium
+C1170,45,Female,Leeds,Electronics,Smartphone,4,855,3420,2025-12-01,3,On-Time,4,Yes,Poor Quality,Premium
+C1171,45,Male,Sheffield,Fashion,Trainers,5,34,170,2025-02-13,2,On-Time,4,No,None,Medium
+C1172,61,Male,Liverpool,Fashion,T-Shirt,3,41,123,2025-01-27,2,On-Time,5,No,None,Medium
+C1173,61,Female,London,Electronics,Smartwatch,4,165,660,2025-10-09,9,Delayed,2,Yes,Damaged Product,High
+C1174,37,Male,Manchester,Electronics,Smartphone,1,915,915,2025-04-07,5,On-Time,5,No,None,High
+C1175,47,Male,Manchester,Fashion,Jeans,4,57,228,2025-02-05,7,Delayed,3,No,None,Medium
+C1176,28,Female,Manchester,Electronics,Smartwatch,5,146,730,2025-04-19,5,On-Time,5,No,None,High
+C1177,45,Female,Sheffield,Fashion,Dress,2,70,140,2025-02-24,7,Delayed,2,No,None,Medium
+C1178,42,Male,Leeds,Fashion,T-Shirt,1,31,31,2025-07-11,4,On-Time,4,No,None,Low
+C1179,56,Male,Sheffield,Home Goods,Vacuum,3,239,717,2025-08-07,8,Delayed,3,No,None,High
+C1180,50,Female,Liverpool,Fashion,Dress,5,122,610,2025-07-04,10,Delayed,1,Yes,Poor Quality,High
+C1181,18,Male,Leeds,Fashion,Trainers,2,83,166,2025-03-10,10,Delayed,2,No,None,Medium
+C1182,44,Male,Birmingham,Fashion,Jeans,4,76,304,2025-11-13,7,Delayed,3,No,None,Medium
+C1183,30,Male,Glasgow,Electronics,Tablet,2,450,900,2025-05-10,10,Delayed,3,No,None,High
+C1184,58,Female,Manchester,Electronics,Headphones,5,261,1305,2025-02-24,5,On-Time,4,No,None,High
+C1185,20,Female,Sheffield,Home Goods,Chair,5,54,270,2025-04-07,6,Delayed,4,No,None,Medium
+C1186,56,Male,Birmingham,Fashion,Dress,2,44,88,2025-12-02,5,On-Time,3,Yes,Damaged Product,Low
+C1187,23,Male,Bristol,Home Goods,Chair,4,220,880,2025-03-28,7,Delayed,3,No,None,High
+C1188,25,Male,Sheffield,Home Goods,Blender,2,48,96,2025-10-21,2,On-Time,5,No,None,Low
+C1189,44,Female,London,Home Goods,Vacuum,5,89,445,2025-04-29,5,On-Time,4,No,None,Medium
+C1190,26,Male,Glasgow,Home Goods,Vacuum,5,172,860,2025-07-27,10,Delayed,1,Yes,Poor Quality,High
+C1191,54,Male,London,Fashion,Jacket,3,134,402,2025-11-30,3,On-Time,5,Yes,Late Delivery,Medium
+C1192,50,Female,Leeds,Electronics,Headphones,3,71,213,2025-06-03,9,Delayed,3,No,None,Medium
+C1193,59,Male,Glasgow,Fashion,Jacket,1,105,105,2025-02-04,6,Delayed,2,No,None,Medium
+C1194,61,Female,Sheffield,Electronics,Smartwatch,5,222,1110,2025-03-20,10,Delayed,2,No,None,High
+C1195,41,Male,Liverpool,Fashion,Dress,3,108,324,2025-03-08,3,On-Time,5,Yes,Changed Mind,Medium
+C1196,32,Male,Birmingham,Fashion,Trainers,2,120,240,2025-12-09,7,Delayed,4,No,None,Medium
+C1197,49,Male,Liverpool,Fashion,Dress,4,128,512,2025-02-03,4,On-Time,3,No,None,High
+C1198,49,Female,Sheffield,Electronics,Smartphone,2,371,742,2025-04-07,3,On-Time,4,No,None,High
+C1199,41,Female,Leeds,Electronics,Laptop,4,846,3384,2025-06-18,8,Delayed,2,No,None,Premium
+C1200,58,Female,London,Fashion,Jacket,3,40,120,2025-06-18,4,On-Time,5,No,None,Medium
+C1201,29,Male,Glasgow,Electronics,Laptop,1,1186,1186,2025-05-31,1,On-Time,4,No,None,High
+C1202,56,Female,Liverpool,Home Goods,Vacuum,2,186,372,2025-03-12,6,Delayed,3,Yes,Late Delivery,Medium
+C1203,19,Male,Sheffield,Electronics,Laptop,2,1165,2330,2025-01-03,10,Delayed,2,No,None,Premium
+C1204,20,Male,Liverpool,Electronics,Laptop,2,943,1886,2025-11-10,1,On-Time,4,Yes,Late Delivery,High
+C1205,54,Female,Sheffield,Electronics,Headphones,4,252,1008,2025-02-01,5,On-Time,5,Yes,Damaged Product,High
+C1206,34,Male,London,Fashion,Jacket,3,68,204,2025-10-14,7,Delayed,3,No,None,Medium
+C1207,19,Male,Glasgow,Fashion,Dress,2,93,186,2025-03-23,6,Delayed,3,No,None,Medium
+C1208,19,Male,Birmingham,Electronics,Smartphone,2,827,1654,2025-02-12,2,On-Time,5,No,None,High
+C1209,45,Male,London,Electronics,Headphones,1,148,148,2025-04-15,4,On-Time,4,No,None,Medium
+C1210,40,Male,Liverpool,Fashion,T-Shirt,1,34,34,2025-01-01,2,On-Time,5,No,None,Low
+C1211,54,Female,Birmingham,Electronics,Smartphone,3,857,2571,2025-03-02,1,On-Time,4,No,None,Premium
+C1212,49,Male,Sheffield,Fashion,Dress,3,106,318,2025-09-27,3,On-Time,5,No,None,Medium
+C1213,50,Female,Birmingham,Fashion,Trainers,5,94,470,2025-06-29,3,On-Time,5,No,None,Medium
+C1214,18,Female,Sheffield,Electronics,Smartwatch,1,176,176,2025-08-12,7,Delayed,3,No,None,Medium
+C1215,36,Male,London,Electronics,Smartwatch,5,107,535,2025-01-06,1,On-Time,4,No,None,High
+C1216,19,Male,Liverpool,Home Goods,Chair,4,200,800,2025-04-13,9,Delayed,2,Yes,Damaged Product,High
+C1217,61,Male,Leeds,Fashion,Trainers,5,30,150,2025-01-10,6,Delayed,4,No,None,Medium
+C1218,43,Female,Liverpool,Fashion,T-Shirt,2,80,160,2025-03-12,4,On-Time,4,No,None,Medium
+C1219,49,Male,Sheffield,Electronics,Tablet,5,525,2625,2025-03-31,3,On-Time,5,No,None,Premium
+C1220,23,Female,Manchester,Fashion,Trainers,3,37,111,2025-08-14,3,On-Time,5,No,None,Medium
+C1221,49,Male,Glasgow,Electronics,Laptop,4,628,2512,2025-06-07,2,On-Time,5,No,None,Premium
+C1222,21,Female,Bristol,Fashion,Jacket,2,90,180,2025-08-16,2,On-Time,5,No,None,Medium
+C1223,28,Male,Leeds,Home Goods,Chair,5,180,900,2025-05-06,10,Delayed,2,Yes,Poor Quality,High
+C1224,34,Male,Birmingham,Electronics,Headphones,4,180,720,2025-07-28,5,On-Time,4,No,None,High
+C1225,55,Female,Leeds,Electronics,Tablet,4,387,1548,2025-04-07,9,Delayed,2,Yes,Damaged Product,High
+C1226,41,Female,Glasgow,Electronics,Tablet,2,674,1348,2025-03-15,2,On-Time,5,No,None,High
+C1227,22,Male,Birmingham,Electronics,Tablet,5,563,2815,2025-04-25,2,On-Time,5,No,None,Premium
+C1228,51,Female,Glasgow,Electronics,Laptop,4,803,3212,2025-07-10,6,Delayed,3,No,None,Premium
+C1229,23,Female,Birmingham,Electronics,Laptop,4,811,3244,2025-06-19,10,Delayed,2,No,None,Premium
+C1230,39,Female,Leeds,Home Goods,Blender,1,128,128,2025-11-03,2,On-Time,5,No,None,Medium
+C1231,28,Female,Birmingham,Fashion,T-Shirt,4,34,136,2025-07-23,4,On-Time,3,Yes,Damaged Product,Medium
+C1232,65,Male,Birmingham,Electronics,Headphones,1,122,122,2025-02-25,6,Delayed,3,Yes,Damaged Product,Medium
+C1233,33,Male,Manchester,Home Goods,Blender,5,186,930,2025-07-27,5,On-Time,4,No,None,High
+C1234,50,Male,Liverpool,Electronics,Smartphone,5,542,2710,2025-02-10,1,On-Time,5,No,None,Premium
+C1235,26,Female,Liverpool,Home Goods,Vacuum,5,38,190,2025-02-01,6,Delayed,3,No,None,Medium
+C1236,23,Female,Bristol,Electronics,Smartphone,3,401,1203,2025-01-15,1,On-Time,4,Yes,Changed Mind,High
+C1237,33,Male,Bristol,Home Goods,Cookware Set,5,238,1190,2025-03-03,3,On-Time,5,No,None,High
+C1238,46,Male,Sheffield,Fashion,T-Shirt,4,59,236,2025-06-04,10,Delayed,3,No,None,Medium
+C1239,20,Female,Sheffield,Home Goods,Vacuum,2,190,380,2025-10-11,5,On-Time,5,No,None,Medium
+C1240,37,Other,Sheffield,Home Goods,Chair,1,160,160,2025-07-28,10,Delayed,2,No,None,Medium
+C1241,53,Female,Manchester,Electronics,Smartphone,3,487,1461,2025-11-16,5,On-Time,5,No,None,High
+C1242,36,Male,Bristol,Home Goods,Lamp,5,204,1020,2025-07-06,10,Delayed,2,Yes,Poor Quality,High
+C1243,43,Male,Glasgow,Electronics,Tablet,5,285,1425,2025-05-10,6,Delayed,4,No,None,High
+C1244,20,Male,Sheffield,Electronics,Smartphone,2,775,1550,2025-05-07,10,Delayed,2,Yes,Changed Mind,High
+C1245,36,Female,Sheffield,Electronics,Laptop,2,651,1302,2025-10-19,8,Delayed,1,Yes,Wrong Item,High
+C1246,37,Male,Leeds,Fashion,T-Shirt,3,67,201,2025-04-24,5,On-Time,3,No,None,Medium
+C1247,49,Female,London,Electronics,Smartwatch,1,158,158,2025-07-18,1,On-Time,5,No,None,Medium
+C1248,24,Male,Glasgow,Fashion,Jacket,5,125,625,2025-01-13,5,On-Time,4,Yes,Changed Mind,High
+C1249,58,Female,Sheffield,Fashion,Jacket,3,82,246,2025-09-28,3,On-Time,5,No,None,Medium
+C1250,50,Female,Sheffield,Home Goods,Cookware Set,4,230,920,2025-03-30,4,On-Time,4,No,None,High
+C1251,57,Female,Sheffield,Home Goods,Blender,4,219,876,2025-08-03,8,Delayed,3,No,None,High
+C1252,56,Male,London,Fashion,Jacket,3,111,333,2025-10-05,7,Delayed,2,No,None,Medium
+C1253,35,Male,London,Electronics,Smartphone,5,926,4630,2025-07-22,5,On-Time,3,No,None,Premium
+C1254,57,Male,Manchester,Electronics,Smartphone,3,325,975,2025-03-15,2,On-Time,4,No,None,High
+C1255,18,Female,Glasgow,Electronics,Tablet,5,498,2490,2025-01-25,6,Delayed,4,No,None,Premium
+C1256,28,Female,Manchester,Electronics,Tablet,2,276,552,2025-04-11,6,Delayed,2,Yes,Poor Quality,High
+C1257,45,Female,Birmingham,Electronics,Tablet,3,336,1008,2025-06-25,10,Delayed,1,Yes,Poor Quality,High
+C1258,42,Female,London,Electronics,Smartphone,5,319,1595,2025-04-27,10,Delayed,1,No,None,High
+C1259,40,Female,Leeds,Home Goods,Chair,3,203,609,2025-06-15,6,Delayed,2,Yes,Damaged Product,High
+C1260,48,Male,Bristol,Fashion,Jacket,3,122,366,2025-02-10,9,Delayed,2,Yes,Wrong Item,Medium
+C1261,47,Female,Leeds,Electronics,Smartphone,5,850,4250,2025-12-10,8,Delayed,1,Yes,Late Delivery,Premium
+C1262,59,Male,Bristol,Fashion,T-Shirt,5,65,325,2025-04-30,8,Delayed,1,Yes,Damaged Product,Medium
+C1263,52,Male,London,Electronics,Laptop,1,806,806,2025-04-07,1,On-Time,5,Yes,Changed Mind,High
+C1264,24,Female,London,Fashion,T-Shirt,3,69,207,2025-05-25,5,On-Time,4,No,None,Medium
+C1265,33,Male,London,Fashion,Jeans,4,25,100,2025-08-04,7,Delayed,4,No,None,Low
+C1266,43,Male,Manchester,Fashion,T-Shirt,3,40,120,2025-08-17,6,Delayed,3,No,None,Medium
+C1267,65,Female,Glasgow,Fashion,Jeans,3,56,168,2025-11-09,5,On-Time,3,No,None,Medium
+C1268,19,Male,Bristol,Home Goods,Chair,5,174,870,2025-05-10,8,Delayed,1,No,None,High
+C1269,18,Female,Glasgow,Home Goods,Cookware Set,3,30,90,2025-12-18,3,On-Time,4,No,None,Low
+C1270,65,Male,Manchester,Fashion,T-Shirt,3,52,156,2025-11-14,6,Delayed,4,Yes,Damaged Product,Medium
+C1271,29,Male,Manchester,Fashion,Trainers,4,72,288,2025-05-17,5,On-Time,3,No,None,Medium
+C1272,22,Male,Liverpool,Fashion,Trainers,5,48,240,2025-11-20,8,Delayed,2,Yes,Damaged Product,Medium
+C1273,54,Male,Leeds,Electronics,Headphones,3,241,723,2025-12-03,4,On-Time,4,No,None,High
+C1274,49,Female,Leeds,Electronics,Smartphone,2,668,1336,2025-09-30,8,Delayed,3,No,None,High
+C1275,26,Male,Birmingham,Electronics,Laptop,1,819,819,2025-04-27,10,Delayed,2,Yes,Late Delivery,High
+C1276,58,Female,Sheffield,Fashion,Dress,4,104,416,2025-11-02,2,On-Time,4,No,None,Medium
+C1277,52,Male,Manchester,Fashion,Dress,3,138,414,2025-04-04,9,Delayed,1,Yes,Changed Mind,Medium
+C1278,36,Female,Bristol,Electronics,Laptop,2,831,1662,2025-06-17,9,Delayed,1,Yes,Late Delivery,High
+C1279,65,Female,Liverpool,Home Goods,Lamp,3,91,273,2025-07-22,10,Delayed,2,Yes,Changed Mind,Medium
+C1280,33,Female,Liverpool,Home Goods,Blender,3,206,618,2025-12-07,10,Delayed,2,Yes,Poor Quality,High
+C1281,20,Male,Sheffield,Fashion,Jacket,5,91,455,2025-05-29,6,Delayed,4,Yes,Late Delivery,Medium
+C1282,37,Male,Glasgow,Fashion,Dress,5,86,430,2025-07-02,4,On-Time,4,No,None,Medium
+C1283,41,Male,Sheffield,Home Goods,Chair,5,139,695,2025-06-01,4,On-Time,3,Yes,Wrong Item,High
+C1284,50,Female,Sheffield,Electronics,Smartwatch,2,56,112,2025-03-15,6,Delayed,2,Yes,Wrong Item,Medium
+C1285,41,Male,Sheffield,Home Goods,Cookware Set,3,30,90,2025-12-31,5,On-Time,3,No,None,Low
+C1286,28,Female,Leeds,Electronics,Smartphone,1,658,658,2025-10-01,6,Delayed,2,No,None,High
+C1287,25,Female,Manchester,Home Goods,Blender,4,80,320,2025-02-11,7,Delayed,3,Yes,Late Delivery,Medium
+C1288,53,Male,Birmingham,Electronics,Smartwatch,5,117,585,2025-07-31,7,Delayed,3,No,None,High
+C1289,55,Female,Manchester,Home Goods,Blender,5,172,860,2025-04-11,9,Delayed,2,Yes,Late Delivery,High
+C1290,57,Male,Glasgow,Home Goods,Vacuum,3,159,477,2025-02-14,8,Delayed,3,No,None,Medium
+C1291,37,Male,London,Electronics,Laptop,3,1162,3486,2025-03-23,6,Delayed,3,No,None,Premium
+C1292,52,Female,Sheffield,Fashion,Dress,2,76,152,2025-01-17,6,Delayed,2,Yes,Poor Quality,Medium
+C1293,65,Female,Manchester,Home Goods,Blender,2,65,130,2025-03-14,5,On-Time,4,Yes,Damaged Product,Medium
+C1294,42,Female,Glasgow,Fashion,Trainers,5,82,410,2025-01-14,1,On-Time,5,No,None,Medium
+C1295,52,Male,London,Home Goods,Chair,3,107,321,2025-06-06,9,Delayed,2,Yes,Damaged Product,Medium
+C1296,42,Male,London,Fashion,Jacket,1,119,119,2025-08-11,9,Delayed,3,No,None,Medium
+C1297,46,Female,Sheffield,Electronics,Smartwatch,4,170,680,2025-05-12,9,Delayed,3,No,None,High
+C1298,35,Female,Birmingham,Electronics,Smartphone,3,568,1704,2025-12-04,8,Delayed,1,Yes,Late Delivery,High
+C1299,63,Female,Bristol,Electronics,Smartwatch,3,138,414,2025-02-16,10,Delayed,3,No,None,Medium
+C1300,35,Male,Leeds,Home Goods,Cookware Set,2,144,288,2025-04-17,3,On-Time,5,No,None,Medium
+C1301,19,Female,Manchester,Electronics,Laptop,4,717,2868,2025-04-18,1,On-Time,5,No,None,Premium
+C1302,52,Male,London,Fashion,Dress,5,93,465,2025-09-22,8,Delayed,1,Yes,Changed Mind,Medium
+C1303,33,Male,Manchester,Fashion,Jacket,3,96,288,2025-07-24,7,Delayed,3,No,None,Medium
+C1304,58,Female,Bristol,Fashion,T-Shirt,5,18,90,2025-03-20,5,On-Time,5,No,None,Low
+C1305,53,Male,Leeds,Home Goods,Cookware Set,3,94,282,2025-06-04,10,Delayed,3,No,None,Medium
+C1306,50,Female,Bristol,Home Goods,Cookware Set,5,243,1215,2025-09-28,7,Delayed,3,No,None,High
+C1307,21,Male,Leeds,Fashion,Dress,4,88,352,2025-09-04,10,Delayed,1,Yes,Late Delivery,Medium
+C1308,50,Male,Liverpool,Home Goods,Lamp,2,26,52,2025-01-19,4,On-Time,5,No,None,Low
+C1309,31,Female,Leeds,Home Goods,Lamp,4,129,516,2025-12-12,9,Delayed,2,Yes,Late Delivery,High
+C1310,38,Female,Sheffield,Fashion,Trainers,1,40,40,2025-01-26,10,Delayed,2,No,None,Low
+C1311,65,Female,Birmingham,Home Goods,Lamp,2,111,222,2025-08-05,2,On-Time,5,No,None,Medium
+C1312,37,Female,Bristol,Electronics,Smartphone,4,737,2948,2025-06-03,9,Delayed,2,Yes,Damaged Product,Premium
+C1313,25,Female,London,Electronics,Headphones,1,282,282,2025-06-03,9,Delayed,3,No,None,Medium
+C1314,24,Female,Sheffield,Home Goods,Chair,3,234,702,2025-06-23,5,On-Time,5,No,None,High
+C1315,20,Female,Liverpool,Fashion,Trainers,3,74,222,2025-04-02,1,On-Time,5,No,None,Medium
+C1316,34,Male,Birmingham,Home Goods,Lamp,5,42,210,2025-12-04,7,Delayed,3,No,None,Medium
+C1317,50,Female,Manchester,Home Goods,Chair,2,47,94,2025-06-30,10,Delayed,2,No,None,Low
+C1318,65,Male,Sheffield,Electronics,Headphones,3,284,852,2025-05-11,10,Delayed,1,Yes,Damaged Product,High
+C1319,29,Other,Bristol,Home Goods,Blender,2,130,260,2025-10-25,4,On-Time,4,No,None,Medium
+C1320,39,Female,Glasgow,Fashion,Jacket,3,96,288,2025-10-02,9,Delayed,3,No,None,Medium
+C1321,39,Male,Glasgow,Fashion,T-Shirt,5,40,200,2025-09-30,6,Delayed,2,No,None,Medium
+C1322,63,Female,London,Fashion,Dress,4,64,256,2025-03-17,3,On-Time,5,No,None,Medium
+C1323,47,Female,Leeds,Home Goods,Cookware Set,5,73,365,2025-06-26,6,Delayed,2,Yes,Late Delivery,Medium
+C1324,55,Male,London,Electronics,Laptop,1,1140,1140,2025-07-03,10,Delayed,3,No,None,High
+C1325,55,Female,Glasgow,Fashion,Jacket,3,122,366,2025-11-15,6,Delayed,3,No,None,Medium
+C1326,62,Female,Manchester,Fashion,Dress,1,136,136,2025-05-11,5,On-Time,4,No,None,Medium
+C1327,25,Male,Liverpool,Fashion,Trainers,1,65,65,2025-12-29,2,On-Time,5,No,None,Low
+C1328,44,Female,Liverpool,Fashion,Dress,2,53,106,2025-02-18,10,Delayed,2,No,None,Medium
+C1329,44,Male,Bristol,Electronics,Headphones,3,127,381,2025-02-24,10,Delayed,3,No,None,Medium
+C1330,51,Female,Liverpool,Electronics,Smartphone,1,846,846,2025-06-03,2,On-Time,5,No,None,High
+C1331,38,Other,Bristol,Electronics,Headphones,4,79,316,2025-12-21,7,Delayed,3,No,None,Medium
+C1332,47,Female,Sheffield,Home Goods,Blender,1,111,111,2025-07-19,2,On-Time,5,No,None,Medium
+C1333,50,Male,Bristol,Electronics,Smartphone,4,572,2288,2025-11-04,6,Delayed,3,No,None,Premium
+C1334,45,Female,Sheffield,Electronics,Headphones,2,244,488,2025-12-22,5,On-Time,4,No,None,Medium
+C1335,64,Female,Bristol,Home Goods,Lamp,1,227,227,2025-04-28,4,On-Time,5,No,None,Medium
+C1336,50,Male,Glasgow,Electronics,Smartphone,5,713,3565,2025-09-20,7,Delayed,3,No,None,Premium
+C1337,22,Female,Glasgow,Home Goods,Chair,2,112,224,2025-02-15,8,Delayed,3,No,None,Medium
+C1338,65,Male,Leeds,Fashion,Dress,4,84,336,2025-10-29,4,On-Time,3,No,None,Medium
+C1339,36,Female,Sheffield,Home Goods,Lamp,2,98,196,2025-12-22,1,On-Time,4,Yes,Late Delivery,Medium
+C1340,21,Male,Birmingham,Electronics,Smartwatch,1,159,159,2025-07-08,1,On-Time,5,No,None,Medium
+C1341,52,Male,Sheffield,Electronics,Smartwatch,3,297,891,2025-11-06,1,On-Time,4,Yes,Poor Quality,High
+C1342,34,Male,Bristol,Fashion,Jacket,3,128,384,2025-11-14,1,On-Time,4,Yes,Damaged Product,Medium
+C1343,61,Female,Bristol,Home Goods,Cookware Set,4,198,792,2025-05-09,5,On-Time,4,No,None,High
+C1344,45,Male,Birmingham,Fashion,Jeans,4,61,244,2025-02-18,4,On-Time,4,No,None,Medium
+C1345,47,Female,London,Electronics,Laptop,3,780,2340,2025-01-25,9,Delayed,3,No,None,Premium
+C1346,46,Male,Bristol,Home Goods,Vacuum,4,83,332,2025-09-23,3,On-Time,4,No,None,Medium
+C1347,63,Male,Leeds,Home Goods,Lamp,2,185,370,2025-04-28,7,Delayed,4,No,None,Medium
+C1348,23,Female,Liverpool,Fashion,Jacket,5,103,515,2025-05-24,8,Delayed,3,No,None,High
+C1349,52,Female,Liverpool,Home Goods,Blender,5,106,530,2025-07-19,6,Delayed,2,Yes,Changed Mind,High
+C1350,58,Male,Manchester,Home Goods,Cookware Set,2,236,472,2025-06-06,10,Delayed,2,No,None,Medium
+C1351,54,Female,Manchester,Fashion,Trainers,5,36,180,2025-12-14,1,On-Time,4,No,None,Medium
+C1352,41,Female,Liverpool,Electronics,Headphones,1,71,71,2025-05-14,8,Delayed,2,Yes,Damaged Product,Low
+C1353,46,Female,Liverpool,Fashion,Jeans,2,55,110,2025-05-28,10,Delayed,1,Yes,Poor Quality,Medium
+C1354,63,Male,Glasgow,Electronics,Smartwatch,4,123,492,2025-12-02,3,On-Time,5,No,None,Medium
+C1355,48,Male,Leeds,Fashion,Trainers,2,39,78,2025-03-12,8,Delayed,3,Yes,Wrong Item,Low
+C1356,52,Female,Birmingham,Fashion,Jeans,3,71,213,2025-08-21,4,On-Time,5,Yes,Late Delivery,Medium
+C1357,50,Male,Manchester,Electronics,Smartphone,4,690,2760,2025-11-30,8,Delayed,2,No,None,Premium
+C1358,38,Female,Glasgow,Electronics,Headphones,3,289,867,2025-10-26,1,On-Time,5,No,None,High
+C1359,49,Female,Glasgow,Electronics,Smartwatch,4,174,696,2025-06-03,3,On-Time,5,No,None,High
+C1360,40,Female,Birmingham,Home Goods,Chair,5,69,345,2025-03-31,6,Delayed,4,No,None,Medium
+C1361,50,Female,Glasgow,Home Goods,Lamp,2,249,498,2025-11-30,9,Delayed,2,Yes,Poor Quality,Medium
+C1362,20,Other,Sheffield,Electronics,Laptop,1,1112,1112,2025-07-18,2,On-Time,4,No,None,High
+C1363,35,Male,Leeds,Home Goods,Blender,4,200,800,2025-06-10,1,On-Time,5,Yes,Poor Quality,High
+C1364,42,Female,Liverpool,Fashion,T-Shirt,4,74,296,2025-01-26,10,Delayed,2,Yes,Damaged Product,Medium
+C1365,59,Male,Bristol,Electronics,Headphones,3,211,633,2025-05-01,3,On-Time,5,No,None,High
+C1366,48,Male,Birmingham,Electronics,Laptop,5,1115,5575,2025-10-28,4,On-Time,3,No,None,Premium
+C1367,20,Female,Liverpool,Fashion,Jacket,3,56,168,2025-07-31,5,On-Time,3,No,None,Medium
+C1368,57,Female,Liverpool,Home Goods,Lamp,3,151,453,2025-03-04,3,On-Time,5,No,None,Medium
+C1369,63,Other,London,Fashion,Trainers,5,72,360,2025-03-09,10,Delayed,3,No,None,Medium
+C1370,41,Female,Sheffield,Electronics,Headphones,1,295,295,2025-09-10,2,On-Time,5,No,None,Medium
+C1371,49,Male,Birmingham,Electronics,Smartphone,3,559,1677,2025-01-02,2,On-Time,5,No,None,High
+C1372,64,Male,Glasgow,Fashion,T-Shirt,3,15,45,2025-04-18,7,Delayed,3,Yes,Wrong Item,Low
+C1373,39,Female,Bristol,Electronics,Smartwatch,4,120,480,2025-10-13,9,Delayed,2,No,None,Medium
+C1374,40,Male,Birmingham,Electronics,Tablet,5,677,3385,2025-02-18,10,Delayed,1,No,None,Premium
+C1375,19,Male,Glasgow,Electronics,Smartwatch,2,227,454,2025-05-20,2,On-Time,4,No,None,Medium
+C1376,44,Male,Liverpool,Home Goods,Blender,1,220,220,2025-08-06,7,Delayed,3,No,None,Medium
+C1377,59,Male,Bristol,Home Goods,Blender,1,208,208,2025-02-13,7,Delayed,2,Yes,Changed Mind,Medium
+C1378,19,Male,Glasgow,Fashion,Jacket,5,74,370,2025-09-26,7,Delayed,2,Yes,Poor Quality,Medium
+C1379,43,Male,Leeds,Home Goods,Vacuum,4,27,108,2025-03-19,3,On-Time,5,No,None,Medium
+C1380,34,Male,Glasgow,Electronics,Smartwatch,4,201,804,2025-08-04,7,Delayed,2,No,None,High
+C1381,57,Male,London,Fashion,Jacket,5,122,610,2025-04-08,1,On-Time,5,No,None,High
+C1382,50,Other,Sheffield,Electronics,Headphones,4,85,340,2025-08-24,10,Delayed,2,No,None,Medium
+C1383,26,Male,Liverpool,Fashion,Dress,1,89,89,2025-10-09,1,On-Time,5,No,None,Low
+C1384,60,Male,Glasgow,Home Goods,Cookware Set,1,142,142,2025-05-29,5,On-Time,4,No,None,Medium
+C1385,65,Female,Sheffield,Fashion,Trainers,2,72,144,2025-10-31,2,On-Time,4,No,None,Medium
+C1386,56,Male,Manchester,Electronics,Tablet,5,482,2410,2025-03-07,9,Delayed,1,Yes,Wrong Item,Premium
+C1387,46,Female,Manchester,Fashion,Trainers,3,61,183,2025-08-22,7,Delayed,4,No,None,Medium
+C1388,59,Female,Sheffield,Electronics,Laptop,3,976,2928,2025-03-28,4,On-Time,4,No,None,Premium
+C1389,43,Male,Sheffield,Home Goods,Lamp,2,165,330,2025-03-20,4,On-Time,3,No,None,Medium
+C1390,52,Male,London,Fashion,Jeans,2,42,84,2025-07-24,2,On-Time,5,No,None,Low
+C1391,42,Female,Leeds,Fashion,Jacket,4,68,272,2025-10-06,5,On-Time,4,No,None,Medium
+C1392,41,Female,Liverpool,Fashion,Jeans,2,30,60,2025-12-03,4,On-Time,4,No,None,Low
+C1393,30,Male,Birmingham,Fashion,Trainers,2,76,152,2025-09-11,1,On-Time,5,No,None,Medium
+C1394,24,Female,London,Electronics,Smartphone,3,486,1458,2025-10-31,8,Delayed,2,No,None,High
+C1395,53,Male,Leeds,Fashion,Jacket,4,70,280,2025-05-10,3,On-Time,5,No,None,Medium
+C1396,62,Other,Sheffield,Electronics,Headphones,2,53,106,2025-03-25,6,Delayed,4,No,None,Medium
+C1397,37,Male,Birmingham,Fashion,Dress,2,76,152,2025-10-03,4,On-Time,4,No,None,Medium
+C1398,18,Female,Sheffield,Home Goods,Chair,4,36,144,2025-07-06,9,Delayed,2,No,None,Medium
+C1399,25,Female,Sheffield,Home Goods,Cookware Set,5,58,290,2025-02-15,7,Delayed,2,No,None,Medium
+C1400,63,Female,Manchester,Fashion,Trainers,4,77,308,2025-07-02,9,Delayed,2,Yes,Wrong Item,Medium
+C1401,33,Female,Manchester,Fashion,Trainers,3,75,225,2025-09-25,10,Delayed,1,No,None,Medium
+C1402,31,Male,Birmingham,Electronics,Smartphone,5,338,1690,2025-10-23,3,On-Time,5,No,None,High
+C1403,29,Male,London,Home Goods,Vacuum,1,151,151,2025-11-18,1,On-Time,5,No,None,Medium
+C1404,40,Male,Manchester,Electronics,Tablet,4,741,2964,2025-04-10,5,On-Time,4,No,None,Premium
+C1405,32,Male,Liverpool,Fashion,Jacket,3,69,207,2025-03-19,3,On-Time,5,No,None,Medium
+C1406,45,Female,Sheffield,Electronics,Smartphone,5,577,2885,2025-09-29,6,Delayed,4,No,None,Premium
+C1407,51,Male,Bristol,Electronics,Headphones,4,252,1008,2025-12-05,8,Delayed,1,Yes,Late Delivery,High
+C1408,19,Male,Glasgow,Fashion,T-Shirt,2,80,160,2025-06-11,4,On-Time,5,No,None,Medium
+C1409,49,Other,Birmingham,Electronics,Smartphone,4,407,1628,2025-02-13,5,On-Time,4,No,None,High
+C1410,40,Female,Birmingham,Fashion,Jeans,1,26,26,2025-08-26,5,On-Time,3,No,None,Low
+C1411,39,Female,Manchester,Electronics,Smartphone,4,521,2084,2025-05-14,4,On-Time,4,No,None,Premium
+C1412,42,Other,London,Electronics,Laptop,5,1129,5645,2025-07-11,4,On-Time,3,No,None,Premium
+C1413,39,Male,Sheffield,Fashion,T-Shirt,5,67,335,2025-12-22,4,On-Time,4,No,None,Medium
+C1414,39,Male,Liverpool,Electronics,Laptop,4,854,3416,2025-10-05,4,On-Time,5,No,None,Premium
+C1415,59,Female,London,Electronics,Tablet,5,654,3270,2025-01-18,4,On-Time,5,No,None,Premium
+C1416,23,Female,Leeds,Fashion,Trainers,2,30,60,2025-01-12,5,On-Time,4,No,None,Low
+C1417,32,Male,Leeds,Electronics,Smartphone,4,682,2728,2025-06-29,2,On-Time,5,No,None,Premium
+C1418,60,Female,Bristol,Home Goods,Chair,2,205,410,2025-05-03,2,On-Time,5,No,None,Medium
+C1419,54,Male,Manchester,Electronics,Headphones,2,139,278,2025-09-03,9,Delayed,3,No,None,Medium
+C1420,50,Male,Manchester,Electronics,Headphones,3,136,408,2025-08-10,2,On-Time,5,No,None,Medium
+C1421,25,Female,Manchester,Fashion,Trainers,4,119,476,2025-02-20,6,Delayed,3,No,None,Medium
+C1422,61,Female,Bristol,Electronics,Smartphone,5,689,3445,2025-03-12,2,On-Time,5,No,None,Premium
+C1423,61,Female,Leeds,Electronics,Laptop,2,1181,2362,2025-02-17,5,On-Time,4,No,None,Premium
+C1424,22,Male,London,Electronics,Smartphone,3,343,1029,2025-01-19,4,On-Time,3,No,None,High
+C1425,56,Female,Bristol,Electronics,Tablet,4,797,3188,2025-09-19,7,Delayed,2,Yes,Changed Mind,Premium
+C1426,21,Male,Bristol,Home Goods,Lamp,4,38,152,2025-03-25,7,Delayed,4,No,None,Medium
+C1427,23,Male,London,Electronics,Headphones,1,150,150,2025-06-04,6,Delayed,3,No,None,Medium
+C1428,62,Female,Manchester,Home Goods,Blender,1,165,165,2025-02-22,10,Delayed,2,No,None,Medium
+C1429,49,Female,Liverpool,Home Goods,Lamp,2,114,228,2025-04-17,5,On-Time,3,No,None,Medium
+C1430,47,Female,London,Fashion,Jeans,1,44,44,2025-12-23,1,On-Time,5,Yes,Changed Mind,Low
+C1431,64,Female,Leeds,Home Goods,Cookware Set,2,189,378,2025-10-31,3,On-Time,5,No,None,Medium
+C1432,52,Female,Birmingham,Electronics,Tablet,5,232,1160,2025-05-15,9,Delayed,3,No,None,High
+C1433,57,Female,Sheffield,Home Goods,Cookware Set,2,221,442,2025-03-10,1,On-Time,4,No,None,Medium
+C1434,33,Male,Birmingham,Electronics,Headphones,1,278,278,2025-01-11,5,On-Time,5,No,None,Medium
+C1435,30,Male,Glasgow,Fashion,Jacket,5,51,255,2025-05-23,2,On-Time,5,No,None,Medium
+C1436,59,Male,Glasgow,Fashion,Jacket,1,133,133,2025-07-11,4,On-Time,5,No,None,Medium
+C1437,47,Male,Bristol,Electronics,Headphones,2,204,408,2025-03-10,1,On-Time,5,No,None,Medium
+C1438,36,Female,Sheffield,Fashion,Trainers,3,68,204,2025-01-23,3,On-Time,5,No,None,Medium
+C1439,34,Female,Birmingham,Fashion,Dress,4,48,192,2025-06-30,10,Delayed,2,Yes,Late Delivery,Medium
+C1440,36,Male,Liverpool,Electronics,Headphones,1,295,295,2025-10-20,7,Delayed,3,No,None,Medium
+C1441,45,Male,Manchester,Electronics,Laptop,2,1004,2008,2025-01-09,10,Delayed,1,No,None,Premium
+C1442,43,Female,Leeds,Fashion,Jacket,5,115,575,2025-09-28,3,On-Time,4,No,None,High
+C1443,54,Male,Glasgow,Fashion,Dress,1,68,68,2025-04-03,4,On-Time,3,No,None,Low
+C1444,43,Female,Liverpool,Home Goods,Chair,1,180,180,2025-01-17,2,On-Time,5,No,None,Medium
+C1445,40,Female,Leeds,Home Goods,Lamp,4,209,836,2025-06-03,3,On-Time,5,Yes,Wrong Item,High
+C1446,26,Female,Leeds,Home Goods,Lamp,2,136,272,2025-11-24,9,Delayed,2,Yes,Damaged Product,Medium
+C1447,29,Female,Manchester,Fashion,T-Shirt,3,29,87,2025-05-29,3,On-Time,5,No,None,Low
+C1448,18,Female,Sheffield,Electronics,Smartwatch,5,51,255,2025-09-24,5,On-Time,5,No,None,Medium
+C1449,18,Male,Bristol,Electronics,Smartwatch,2,229,458,2025-11-24,2,On-Time,5,No,None,Medium
+C1450,64,Female,Birmingham,Home Goods,Blender,5,250,1250,2025-04-16,4,On-Time,4,No,None,High
+C1451,51,Female,Manchester,Fashion,T-Shirt,1,58,58,2025-02-04,7,Delayed,2,Yes,Late Delivery,Low
+C1452,49,Male,Liverpool,Electronics,Smartwatch,4,231,924,2025-04-29,7,Delayed,3,No,None,High
+C1453,65,Female,Bristol,Electronics,Smartphone,4,573,2292,2025-01-14,3,On-Time,4,No,None,Premium
+C1454,42,Female,Liverpool,Home Goods,Lamp,3,22,66,2025-01-14,5,On-Time,4,No,None,Low
+C1455,57,Female,Bristol,Fashion,Jacket,4,46,184,2025-09-23,1,On-Time,5,No,None,Medium
+C1456,62,Female,Sheffield,Fashion,T-Shirt,1,57,57,2025-05-20,10,Delayed,3,Yes,Damaged Product,Low
+C1457,18,Female,Glasgow,Fashion,Jacket,3,121,363,2025-10-21,10,Delayed,3,Yes,Wrong Item,Medium
+C1458,33,Female,Liverpool,Electronics,Smartwatch,2,285,570,2025-12-30,10,Delayed,3,No,None,High
+C1459,56,Female,Manchester,Electronics,Smartwatch,4,215,860,2025-04-29,1,On-Time,4,No,None,High
+C1460,22,Female,Bristol,Electronics,Smartphone,3,720,2160,2025-08-26,5,On-Time,4,No,None,Premium
+C1461,39,Female,Bristol,Electronics,Headphones,1,235,235,2025-02-03,10,Delayed,2,Yes,Damaged Product,Medium
+C1462,46,Female,Leeds,Home Goods,Chair,5,180,900,2025-06-18,9,Delayed,2,No,None,High
+C1463,20,Female,Leeds,Fashion,Jacket,5,147,735,2025-01-10,1,On-Time,5,No,None,High
+C1464,29,Male,London,Home Goods,Lamp,1,206,206,2025-05-02,1,On-Time,5,No,None,Medium
+C1465,43,Female,Liverpool,Home Goods,Cookware Set,1,114,114,2025-05-25,4,On-Time,4,No,None,Medium
+C1466,33,Female,Leeds,Electronics,Headphones,5,171,855,2025-08-11,4,On-Time,5,No,None,High
+C1467,54,Male,London,Fashion,Jacket,3,50,150,2025-09-14,2,On-Time,5,Yes,Late Delivery,Medium
+C1468,39,Female,Glasgow,Fashion,Jeans,5,36,180,2025-09-25,9,Delayed,3,No,None,Medium
+C1469,46,Male,Glasgow,Home Goods,Cookware Set,1,213,213,2025-12-25,9,Delayed,2,Yes,Changed Mind,Medium
+C1470,31,Male,Leeds,Electronics,Headphones,4,221,884,2025-01-04,2,On-Time,5,No,None,High
+C1471,45,Female,Liverpool,Fashion,T-Shirt,2,20,40,2025-12-20,9,Delayed,2,No,None,Low
+C1472,22,Male,Bristol,Fashion,Jeans,4,56,224,2025-04-16,6,Delayed,4,Yes,Poor Quality,Medium
+C1473,64,Female,Birmingham,Electronics,Tablet,4,224,896,2025-03-26,8,Delayed,2,Yes,Late Delivery,High
+C1474,47,Female,Sheffield,Electronics,Headphones,1,296,296,2025-08-02,10,Delayed,1,Yes,Damaged Product,Medium
+C1475,63,Female,Liverpool,Fashion,Dress,5,96,480,2025-05-01,4,On-Time,4,No,None,Medium
+C1476,22,Male,Sheffield,Fashion,Trainers,3,114,342,2025-05-12,2,On-Time,4,No,None,Medium
+C1477,29,Male,Manchester,Electronics,Smartphone,4,866,3464,2025-12-04,2,On-Time,5,No,None,Premium
+C1478,33,Female,Glasgow,Fashion,T-Shirt,5,30,150,2025-07-16,9,Delayed,3,No,None,Medium
+C1479,43,Other,Leeds,Electronics,Tablet,3,611,1833,2025-01-19,1,On-Time,5,No,None,High
+C1480,43,Female,Leeds,Fashion,Trainers,4,80,320,2025-05-10,7,Delayed,2,Yes,Damaged Product,Medium
+C1481,65,Male,Sheffield,Electronics,Smartwatch,3,168,504,2025-01-12,3,On-Time,5,No,None,High
+C1482,38,Female,Bristol,Home Goods,Cookware Set,5,196,980,2025-03-22,3,On-Time,5,No,None,High
+C1483,56,Female,Sheffield,Electronics,Headphones,2,58,116,2025-11-26,2,On-Time,5,No,None,Medium
+C1484,53,Female,Manchester,Electronics,Tablet,5,628,3140,2025-12-20,10,Delayed,3,No,None,Premium
+C1485,50,Male,Bristol,Electronics,Smartwatch,1,199,199,2025-09-19,6,Delayed,3,No,None,Medium
+C1486,47,Female,Manchester,Electronics,Laptop,3,1015,3045,2025-05-05,10,Delayed,2,Yes,Damaged Product,Premium
+C1487,54,Female,Birmingham,Fashion,Jeans,2,56,112,2025-11-03,2,On-Time,5,No,None,Medium
+C1488,40,Other,Glasgow,Electronics,Headphones,3,102,306,2025-09-24,10,Delayed,2,No,None,Medium
+C1489,27,Male,Leeds,Home Goods,Vacuum,3,243,729,2025-05-20,4,On-Time,5,No,None,High
+C1490,22,Female,Leeds,Electronics,Tablet,4,642,2568,2025-11-25,10,Delayed,1,No,None,Premium
+C1491,53,Female,Birmingham,Electronics,Smartwatch,1,123,123,2025-01-02,9,Delayed,3,Yes,Changed Mind,Medium
+C1492,51,Male,London,Electronics,Smartwatch,3,300,900,2025-01-08,9,Delayed,1,Yes,Wrong Item,High
+C1493,48,Female,Glasgow,Electronics,Headphones,5,88,440,2025-09-07,6,Delayed,4,No,None,Medium
+C1494,27,Female,Bristol,Electronics,Tablet,5,322,1610,2025-05-19,4,On-Time,4,No,None,High
+C1495,36,Male,Birmingham,Fashion,T-Shirt,4,17,68,2025-05-04,7,Delayed,3,No,None,Low
+C1496,49,Male,Bristol,Fashion,T-Shirt,1,24,24,2025-11-05,1,On-Time,5,No,None,Low
+C1497,18,Female,Sheffield,Fashion,Trainers,1,58,58,2025-08-16,4,On-Time,3,No,None,Low
+C1498,22,Male,Liverpool,Fashion,Dress,5,118,590,2025-01-10,5,On-Time,4,No,None,High
+C1499,62,Female,Leeds,Fashion,T-Shirt,2,49,98,2025-07-31,8,Delayed,1,No,None,Low
+C1500,21,Male,Bristol,Electronics,Smartphone,4,817,3268,2025-04-22,2,On-Time,5,Yes,Wrong Item,Premium
+C1501,33,Female,Manchester,Fashion,Jacket,4,51,204,2025-01-08,5,On-Time,4,Yes,Wrong Item,Medium
+C1502,41,Male,Bristol,Home Goods,Lamp,5,130,650,2025-10-19,6,Delayed,2,No,None,High
+C1503,33,Female,Liverpool,Fashion,Dress,5,77,385,2025-12-28,5,On-Time,5,No,None,Medium
+C1504,19,Other,Glasgow,Fashion,Dress,2,116,232,2025-09-10,9,Delayed,2,Yes,Changed Mind,Medium
+C1505,45,Other,Leeds,Electronics,Headphones,2,142,284,2025-01-14,10,Delayed,2,Yes,Damaged Product,Medium
+C1506,49,Female,Sheffield,Home Goods,Blender,1,166,166,2025-08-28,1,On-Time,5,No,None,Medium
+C1507,44,Male,Birmingham,Home Goods,Vacuum,4,86,344,2025-08-30,3,On-Time,5,No,None,Medium
+C1508,37,Female,Sheffield,Fashion,Jeans,4,22,88,2025-12-08,2,On-Time,5,No,None,Low
+C1509,41,Male,Liverpool,Home Goods,Vacuum,5,27,135,2025-05-29,3,On-Time,5,No,None,Medium
+C1510,29,Male,Leeds,Electronics,Smartphone,1,421,421,2025-08-24,10,Delayed,3,No,None,Medium
+C1511,52,Male,Bristol,Electronics,Smartphone,4,639,2556,2025-11-02,9,Delayed,2,Yes,Damaged Product,Premium
+C1512,50,Female,Glasgow,Home Goods,Blender,1,194,194,2025-06-16,9,Delayed,2,No,None,Medium
+C1513,50,Female,London,Home Goods,Blender,1,151,151,2025-01-20,10,Delayed,2,Yes,Late Delivery,Medium
+C1514,60,Female,Glasgow,Electronics,Smartphone,5,990,4950,2025-08-04,2,On-Time,4,No,None,Premium
+C1515,54,Male,London,Electronics,Tablet,1,796,796,2025-12-09,3,On-Time,5,No,None,High
+C1516,29,Male,Manchester,Electronics,Smartwatch,2,244,488,2025-05-15,4,On-Time,4,No,None,Medium
+C1517,20,Other,Glasgow,Electronics,Laptop,2,1156,2312,2025-05-09,9,Delayed,2,Yes,Late Delivery,Premium
+C1518,18,Male,Leeds,Home Goods,Chair,3,155,465,2025-10-21,3,On-Time,5,No,None,Medium
+C1519,50,Male,London,Fashion,T-Shirt,5,30,150,2025-09-03,7,Delayed,4,No,None,Medium
+C1520,57,Male,Birmingham,Electronics,Smartwatch,3,126,378,2025-07-08,3,On-Time,4,No,None,Medium
+C1521,27,Female,Leeds,Electronics,Smartphone,2,494,988,2025-02-13,7,Delayed,3,Yes,Late Delivery,High
+C1522,60,Female,Birmingham,Electronics,Tablet,3,695,2085,2025-03-27,7,Delayed,3,Yes,Changed Mind,Premium
+C1523,61,Male,Glasgow,Electronics,Tablet,5,208,1040,2025-02-13,9,Delayed,2,No,None,High
+C1524,46,Male,Birmingham,Fashion,T-Shirt,5,74,370,2025-11-26,2,On-Time,5,No,None,Medium
+C1525,30,Female,London,Home Goods,Vacuum,1,97,97,2025-05-25,6,Delayed,3,Yes,Poor Quality,Low
+C1526,29,Female,Leeds,Home Goods,Vacuum,4,96,384,2025-02-20,9,Delayed,2,No,None,Medium
+C1527,48,Male,Bristol,Electronics,Laptop,1,926,926,2025-08-30,2,On-Time,5,No,None,High
+C1528,63,Female,Liverpool,Home Goods,Blender,5,34,170,2025-10-21,2,On-Time,5,No,None,Medium
+C1529,19,Male,London,Home Goods,Chair,2,90,180,2025-02-20,5,On-Time,3,No,None,Medium
+C1530,52,Male,London,Home Goods,Vacuum,2,121,242,2025-09-23,10,Delayed,2,Yes,Damaged Product,Medium
+C1531,40,Female,Bristol,Fashion,Trainers,1,70,70,2025-04-30,10,Delayed,2,No,None,Low
+C1532,34,Male,Leeds,Electronics,Smartwatch,5,71,355,2025-07-19,10,Delayed,2,No,None,Medium
+C1533,43,Female,Leeds,Electronics,Tablet,2,607,1214,2025-09-05,8,Delayed,2,No,None,High
+C1534,25,Male,Sheffield,Electronics,Laptop,5,712,3560,2025-03-11,9,Delayed,3,Yes,Late Delivery,Premium
+C1535,46,Male,Glasgow,Electronics,Smartwatch,2,278,556,2025-12-07,2,On-Time,5,No,None,High
+C1536,43,Other,Birmingham,Electronics,Smartphone,5,727,3635,2025-02-26,5,On-Time,4,No,None,Premium
+C1537,27,Male,Glasgow,Fashion,Jacket,3,40,120,2025-02-08,7,Delayed,2,No,None,Medium
+C1538,43,Female,Bristol,Fashion,T-Shirt,5,24,120,2025-10-16,6,Delayed,2,Yes,Changed Mind,Medium
+C1539,51,Male,Glasgow,Fashion,Trainers,5,109,545,2025-01-18,6,Delayed,3,No,None,High
+C1540,58,Male,Bristol,Electronics,Tablet,1,568,568,2025-08-08,7,Delayed,3,No,None,High
+C1541,24,Male,Leeds,Home Goods,Cookware Set,3,236,708,2025-11-09,3,On-Time,5,No,None,High
+C1542,21,Female,Birmingham,Home Goods,Cookware Set,4,69,276,2025-09-01,3,On-Time,5,No,None,Medium
+C1543,62,Male,Glasgow,Home Goods,Cookware Set,1,31,31,2025-12-18,10,Delayed,2,No,None,Low
+C1544,28,Female,London,Home Goods,Lamp,4,108,432,2025-10-31,9,Delayed,1,Yes,Wrong Item,Medium
+C1545,46,Male,Manchester,Fashion,T-Shirt,2,74,148,2025-10-25,8,Delayed,3,No,None,Medium
+C1546,53,Other,Sheffield,Home Goods,Cookware Set,4,173,692,2025-10-10,5,On-Time,5,No,None,High
+C1547,42,Male,Liverpool,Electronics,Smartwatch,5,287,1435,2025-03-15,6,Delayed,4,No,None,High
+C1548,38,Female,London,Electronics,Tablet,4,567,2268,2025-04-20,10,Delayed,2,No,None,Premium
+C1549,53,Female,Leeds,Electronics,Smartwatch,1,127,127,2025-06-29,1,On-Time,4,No,None,Medium
+C1550,27,Female,Liverpool,Electronics,Tablet,1,619,619,2025-02-01,10,Delayed,2,Yes,Poor Quality,High
+C1551,54,Female,Manchester,Electronics,Smartphone,4,470,1880,2025-08-22,1,On-Time,5,No,None,High
+C1552,26,Female,Manchester,Fashion,T-Shirt,1,20,20,2025-10-09,4,On-Time,4,Yes,Wrong Item,Low
+C1553,41,Female,Birmingham,Home Goods,Chair,1,216,216,2025-01-25,2,On-Time,5,No,None,Medium
+C1554,52,Male,Liverpool,Fashion,Jeans,4,57,228,2025-11-27,7,Delayed,4,No,None,Medium
+C1555,52,Male,Birmingham,Electronics,Smartphone,3,324,972,2025-10-06,2,On-Time,5,No,None,High
+C1556,65,Female,London,Home Goods,Lamp,3,37,111,2025-08-14,10,Delayed,1,Yes,Poor Quality,Medium
+C1557,53,Female,Bristol,Fashion,Dress,2,101,202,2025-02-26,2,On-Time,5,No,None,Medium
+C1558,35,Female,Bristol,Electronics,Tablet,1,340,340,2025-06-29,5,On-Time,4,No,None,Medium
+C1559,56,Female,Bristol,Fashion,Trainers,4,72,288,2025-08-20,4,On-Time,4,No,None,Medium
+C1560,49,Male,Liverpool,Electronics,Headphones,1,127,127,2025-12-09,8,Delayed,2,No,None,Medium
+C1561,41,Male,Bristol,Electronics,Tablet,5,514,2570,2025-10-14,4,On-Time,4,No,None,Premium
+C1562,40,Female,London,Home Goods,Blender,1,207,207,2025-03-05,6,Delayed,2,Yes,Damaged Product,Medium
+C1563,49,Male,Birmingham,Electronics,Headphones,1,112,112,2025-08-20,5,On-Time,5,No,None,Medium
+C1564,54,Male,Liverpool,Fashion,Trainers,3,86,258,2025-10-16,2,On-Time,5,No,None,Medium
+C1565,29,Female,Birmingham,Home Goods,Lamp,4,111,444,2025-08-01,8,Delayed,2,Yes,Damaged Product,Medium
+C1566,30,Male,Liverpool,Fashion,Jeans,1,65,65,2025-09-15,2,On-Time,5,No,None,Low
+C1567,40,Female,Birmingham,Electronics,Headphones,3,105,315,2025-01-18,9,Delayed,2,No,None,Medium
+C1568,42,Male,Manchester,Electronics,Smartwatch,2,204,408,2025-06-24,9,Delayed,2,No,None,Medium
+C1569,52,Female,Birmingham,Electronics,Laptop,3,710,2130,2025-08-17,3,On-Time,5,No,None,Premium
+C1570,58,Male,Bristol,Fashion,Trainers,3,38,114,2025-08-14,4,On-Time,4,No,None,Medium
+C1571,47,Male,Manchester,Fashion,Trainers,3,113,339,2025-03-25,8,Delayed,2,Yes,Wrong Item,Medium
+C1572,34,Male,Birmingham,Electronics,Smartphone,1,780,780,2025-10-18,9,Delayed,1,No,None,High
+C1573,37,Male,Liverpool,Home Goods,Chair,1,87,87,2025-09-03,3,On-Time,5,No,None,Low
+C1574,65,Male,Liverpool,Fashion,Trainers,2,75,150,2025-04-20,5,On-Time,4,No,None,Medium
+C1575,42,Male,Sheffield,Electronics,Smartphone,5,548,2740,2025-09-11,8,Delayed,2,Yes,Damaged Product,Premium
+C1576,39,Female,Liverpool,Fashion,Jacket,5,137,685,2025-03-29,3,On-Time,5,No,None,High
+C1577,30,Male,Leeds,Fashion,T-Shirt,5,40,200,2025-03-13,7,Delayed,2,No,None,Medium
+C1578,36,Female,London,Electronics,Tablet,2,717,1434,2025-01-30,8,Delayed,1,Yes,Poor Quality,High
+C1579,53,Female,Liverpool,Electronics,Headphones,5,257,1285,2025-06-21,10,Delayed,3,No,None,High
+C1580,29,Female,Manchester,Home Goods,Cookware Set,5,43,215,2025-11-05,3,On-Time,5,No,None,Medium
+C1581,58,Male,Sheffield,Fashion,T-Shirt,3,62,186,2025-12-09,2,On-Time,5,No,None,Medium
+C1582,36,Female,Liverpool,Fashion,T-Shirt,1,59,59,2025-06-26,10,Delayed,3,No,None,Low
+C1583,29,Male,Leeds,Fashion,Jacket,1,52,52,2025-05-19,7,Delayed,2,Yes,Poor Quality,Low
+C1584,26,Male,Bristol,Electronics,Smartphone,3,836,2508,2025-07-13,9,Delayed,3,No,None,Premium
+C1585,24,Other,Manchester,Electronics,Tablet,3,347,1041,2025-07-05,1,On-Time,5,No,None,High
+C1586,45,Male,Leeds,Fashion,T-Shirt,3,80,240,2025-08-06,3,On-Time,5,No,None,Medium
+C1587,31,Female,Bristol,Electronics,Smartwatch,1,251,251,2025-06-13,5,On-Time,4,No,None,Medium
+C1588,48,Female,Glasgow,Electronics,Laptop,5,969,4845,2025-06-10,3,On-Time,4,No,None,Premium
+C1589,36,Female,Glasgow,Home Goods,Cookware Set,3,194,582,2025-01-13,1,On-Time,5,No,None,High
+C1590,64,Female,Manchester,Home Goods,Chair,2,82,164,2025-10-23,7,Delayed,4,No,None,Medium
+C1591,33,Male,Birmingham,Home Goods,Chair,3,95,285,2025-03-30,7,Delayed,3,No,None,Medium
+C1592,22,Male,London,Home Goods,Blender,4,224,896,2025-11-20,10,Delayed,2,Yes,Late Delivery,High
+C1593,52,Female,Sheffield,Electronics,Headphones,3,163,489,2025-02-11,8,Delayed,2,No,None,Medium
+C1594,29,Male,London,Home Goods,Lamp,1,130,130,2025-07-29,5,On-Time,5,No,None,Medium
+C1595,42,Male,Leeds,Electronics,Tablet,3,638,1914,2025-08-17,10,Delayed,3,No,None,High
+C1596,38,Male,Bristol,Home Goods,Chair,4,222,888,2025-12-16,5,On-Time,5,No,None,High
+C1597,53,Male,London,Home Goods,Cookware Set,2,166,332,2025-10-02,5,On-Time,4,No,None,Medium
+C1598,40,Male,Bristol,Fashion,Dress,5,74,370,2025-10-06,1,On-Time,5,No,None,Medium
+C1599,33,Male,Bristol,Home Goods,Cookware Set,3,250,750,2025-09-08,10,Delayed,3,No,None,High
+C1600,56,Female,Leeds,Fashion,Trainers,4,82,328,2025-11-06,5,On-Time,4,No,None,Medium
+C1601,62,Female,Leeds,Electronics,Tablet,4,737,2948,2025-07-27,6,Delayed,3,Yes,Damaged Product,Premium
+C1602,59,Female,Leeds,Fashion,Trainers,2,43,86,2025-11-17,1,On-Time,5,No,None,Low
+C1603,56,Male,London,Fashion,Jeans,1,59,59,2025-05-20,7,Delayed,2,Yes,Wrong Item,Low
+C1604,31,Male,Glasgow,Electronics,Tablet,3,627,1881,2025-10-07,1,On-Time,4,No,None,High
+C1605,48,Male,Leeds,Fashion,T-Shirt,4,79,316,2025-02-03,2,On-Time,5,No,None,Medium
+C1606,22,Female,Sheffield,Home Goods,Blender,2,70,140,2025-11-05,2,On-Time,4,No,None,Medium
+C1607,52,Female,London,Electronics,Tablet,5,639,3195,2025-01-18,5,On-Time,4,No,None,Premium
+C1608,40,Male,Leeds,Home Goods,Lamp,4,38,152,2025-02-26,10,Delayed,2,No,None,Medium
+C1609,46,Female,Liverpool,Home Goods,Chair,2,101,202,2025-04-22,7,Delayed,3,No,None,Medium
+C1610,60,Male,Bristol,Home Goods,Vacuum,1,95,95,2025-01-05,1,On-Time,5,No,None,Low
+C1611,28,Female,Sheffield,Home Goods,Chair,1,202,202,2025-07-01,10,Delayed,1,Yes,Wrong Item,Medium
+C1612,35,Female,Leeds,Fashion,Trainers,4,89,356,2025-01-13,1,On-Time,4,No,None,Medium
+C1613,64,Female,Manchester,Home Goods,Cookware Set,4,206,824,2025-12-05,1,On-Time,5,No,None,High
+C1614,29,Female,Bristol,Home Goods,Cookware Set,3,52,156,2025-10-12,6,Delayed,2,Yes,Wrong Item,Medium
+C1615,26,Female,Bristol,Electronics,Laptop,2,1139,2278,2025-09-16,2,On-Time,4,No,None,Premium
+C1616,27,Male,Leeds,Fashion,T-Shirt,4,66,264,2025-03-31,1,On-Time,5,No,None,Medium
+C1617,61,Female,Glasgow,Fashion,Dress,3,88,264,2025-04-14,6,Delayed,4,No,None,Medium
+C1618,34,Male,Birmingham,Electronics,Smartwatch,3,86,258,2025-07-05,2,On-Time,5,No,None,Medium
+C1619,55,Female,Glasgow,Fashion,Jacket,4,65,260,2025-09-07,6,Delayed,2,No,None,Medium
+C1620,24,Female,Leeds,Fashion,Jacket,1,138,138,2025-09-12,10,Delayed,2,Yes,Damaged Product,Medium
+C1621,63,Female,Bristol,Electronics,Tablet,2,326,652,2025-03-17,8,Delayed,2,Yes,Changed Mind,High
+C1622,30,Male,Sheffield,Fashion,Trainers,2,69,138,2025-04-18,2,On-Time,5,No,None,Medium
+C1623,57,Female,Manchester,Home Goods,Chair,1,99,99,2025-06-05,9,Delayed,1,Yes,Changed Mind,Low
+C1624,59,Female,Sheffield,Fashion,Trainers,4,67,268,2025-03-23,8,Delayed,1,Yes,Damaged Product,Medium
+C1625,26,Female,Sheffield,Electronics,Laptop,2,942,1884,2025-03-18,10,Delayed,2,Yes,Changed Mind,High
+C1626,44,Male,Bristol,Electronics,Headphones,4,103,412,2025-09-15,1,On-Time,5,No,None,Medium
+C1627,19,Male,Glasgow,Electronics,Tablet,4,727,2908,2025-05-07,7,Delayed,2,No,None,Premium
+C1628,22,Male,Manchester,Home Goods,Lamp,3,47,141,2025-10-09,10,Delayed,2,No,None,Medium
+C1629,46,Male,London,Electronics,Smartphone,1,718,718,2025-03-29,6,Delayed,3,No,None,High
+C1630,54,Female,Liverpool,Fashion,T-Shirt,4,74,296,2025-07-23,6,Delayed,4,Yes,Damaged Product,Medium
+C1631,55,Male,Bristol,Electronics,Headphones,5,222,1110,2025-01-16,6,Delayed,3,No,None,High
+C1632,36,Other,Leeds,Electronics,Headphones,1,95,95,2025-05-31,6,Delayed,2,Yes,Late Delivery,Low
+C1633,25,Male,London,Home Goods,Chair,2,91,182,2025-09-11,10,Delayed,3,No,None,Medium
+C1634,65,Male,Liverpool,Fashion,Jeans,3,69,207,2025-07-07,7,Delayed,3,No,None,Medium
+C1635,62,Female,Leeds,Electronics,Tablet,2,413,826,2025-11-25,3,On-Time,5,No,None,High
+C1636,18,Female,Sheffield,Fashion,Jeans,2,40,80,2025-02-01,6,Delayed,4,No,None,Low
+C1637,39,Female,Birmingham,Electronics,Laptop,1,684,684,2025-09-28,3,On-Time,5,No,None,High
+C1638,34,Female,Leeds,Fashion,T-Shirt,2,39,78,2025-01-05,7,Delayed,4,No,None,Low
+C1639,24,Female,Manchester,Fashion,Jacket,4,144,576,2025-11-26,7,Delayed,2,No,None,High
+C1640,42,Male,Manchester,Electronics,Smartwatch,2,114,228,2025-11-04,8,Delayed,1,Yes,Changed Mind,Medium
+C1641,62,Other,Birmingham,Electronics,Laptop,3,663,1989,2025-11-29,2,On-Time,5,Yes,Wrong Item,High
+C1642,21,Other,London,Electronics,Headphones,3,136,408,2025-06-18,9,Delayed,2,Yes,Poor Quality,Medium
+C1643,53,Female,Liverpool,Home Goods,Vacuum,5,190,950,2025-06-30,5,On-Time,4,No,None,High
+C1644,23,Male,Leeds,Home Goods,Blender,3,126,378,2025-06-27,9,Delayed,1,Yes,Damaged Product,Medium
+C1645,48,Female,Manchester,Electronics,Laptop,2,951,1902,2025-05-23,10,Delayed,2,Yes,Late Delivery,High
+C1646,36,Male,London,Home Goods,Blender,3,177,531,2025-12-28,5,On-Time,5,No,None,High
+C1647,61,Male,Birmingham,Electronics,Smartphone,1,888,888,2025-09-05,7,Delayed,4,No,None,High
+C1648,56,Male,Glasgow,Electronics,Smartphone,3,790,2370,2025-05-07,9,Delayed,1,No,None,Premium
+C1649,44,Male,Bristol,Home Goods,Blender,4,165,660,2025-09-20,4,On-Time,5,No,None,High
+C1650,27,Female,Glasgow,Home Goods,Cookware Set,1,106,106,2025-02-09,2,On-Time,5,No,None,Medium
+C1651,43,Female,Glasgow,Home Goods,Vacuum,5,226,1130,2025-12-21,9,Delayed,2,No,None,High
+C1652,36,Female,Manchester,Fashion,Trainers,4,50,200,2025-09-12,2,On-Time,5,No,None,Medium
+C1653,56,Male,Sheffield,Electronics,Smartphone,2,612,1224,2025-05-23,3,On-Time,5,No,None,High
+C1654,20,Male,Sheffield,Home Goods,Chair,2,122,244,2025-08-28,10,Delayed,1,Yes,Poor Quality,Medium
+C1655,62,Male,Birmingham,Electronics,Laptop,2,1065,2130,2025-08-16,2,On-Time,5,No,None,Premium
+C1656,30,Other,Leeds,Fashion,Dress,4,127,508,2025-12-07,3,On-Time,5,Yes,Late Delivery,High
+C1657,45,Male,Sheffield,Electronics,Smartphone,4,602,2408,2025-07-17,6,Delayed,2,Yes,Wrong Item,Premium
+C1658,37,Female,Glasgow,Fashion,T-Shirt,4,54,216,2025-03-06,3,On-Time,5,No,None,Medium
+C1659,45,Female,Sheffield,Electronics,Headphones,1,228,228,2025-01-11,10,Delayed,2,Yes,Damaged Product,Medium
+C1660,25,Male,Glasgow,Electronics,Headphones,1,219,219,2025-04-18,8,Delayed,2,Yes,Changed Mind,Medium
+C1661,58,Female,Liverpool,Home Goods,Vacuum,2,154,308,2025-01-26,6,Delayed,3,No,None,Medium
+C1662,56,Female,Manchester,Electronics,Smartwatch,3,99,297,2025-05-31,7,Delayed,2,No,None,Medium
+C1663,18,Female,Manchester,Fashion,Dress,2,87,174,2025-08-09,1,On-Time,5,No,None,Medium
+C1664,20,Female,Leeds,Electronics,Laptop,5,939,4695,2025-12-07,3,On-Time,5,No,None,Premium
+C1665,30,Male,Sheffield,Electronics,Smartphone,1,646,646,2025-08-25,3,On-Time,5,No,None,High
+C1666,45,Male,Sheffield,Electronics,Headphones,4,183,732,2025-08-25,2,On-Time,5,No,None,High
+C1667,42,Female,Bristol,Electronics,Laptop,1,946,946,2025-08-07,7,Delayed,3,No,None,High
+C1668,50,Female,London,Home Goods,Cookware Set,4,156,624,2025-05-31,9,Delayed,1,No,None,High
+C1669,55,Male,Liverpool,Electronics,Laptop,5,844,4220,2025-05-03,4,On-Time,4,No,None,Premium
+C1670,23,Female,Manchester,Home Goods,Lamp,5,128,640,2025-05-24,5,On-Time,3,No,None,High
+C1671,61,Female,Liverpool,Fashion,Dress,1,96,96,2025-07-08,3,On-Time,5,No,None,Low
+C1672,62,Female,Manchester,Fashion,T-Shirt,4,45,180,2025-09-12,9,Delayed,2,Yes,Damaged Product,Medium
+C1673,49,Male,Liverpool,Fashion,T-Shirt,5,35,175,2025-03-09,4,On-Time,3,No,None,Medium
+C1674,62,Female,Birmingham,Fashion,Trainers,2,119,238,2025-04-14,5,On-Time,3,No,None,Medium
+C1675,64,Female,Glasgow,Home Goods,Blender,2,59,118,2025-12-02,1,On-Time,4,No,None,Medium
+C1676,38,Male,Manchester,Electronics,Smartwatch,4,161,644,2025-06-08,2,On-Time,4,No,None,High
+C1677,33,Male,Liverpool,Electronics,Smartphone,1,888,888,2025-11-05,9,Delayed,3,No,None,High
+C1678,38,Other,Sheffield,Home Goods,Blender,5,196,980,2025-12-28,2,On-Time,5,No,None,High
+C1679,28,Male,London,Home Goods,Lamp,1,106,106,2025-10-27,5,On-Time,4,No,None,Medium
+C1680,54,Female,Birmingham,Home Goods,Cookware Set,2,167,334,2025-03-31,8,Delayed,2,Yes,Poor Quality,Medium
+C1681,53,Female,Birmingham,Fashion,Jacket,5,140,700,2025-12-23,3,On-Time,5,No,None,High
+C1682,52,Male,London,Home Goods,Cookware Set,1,136,136,2025-09-13,6,Delayed,4,No,None,Medium
+C1683,36,Female,Liverpool,Fashion,Jacket,3,131,393,2025-12-19,4,On-Time,3,No,None,Medium
+C1684,37,Male,Sheffield,Fashion,Jeans,4,31,124,2025-08-08,7,Delayed,2,No,None,Medium
+C1685,35,Female,Leeds,Electronics,Smartwatch,4,77,308,2025-01-09,10,Delayed,2,Yes,Changed Mind,Medium
+C1686,64,Male,London,Fashion,T-Shirt,3,55,165,2025-01-12,3,On-Time,4,Yes,Damaged Product,Medium
+C1687,58,Female,Liverpool,Electronics,Headphones,2,243,486,2025-11-21,6,Delayed,3,No,None,Medium
+C1688,31,Male,London,Electronics,Laptop,5,1136,5680,2025-09-01,10,Delayed,2,Yes,Late Delivery,Premium
+C1689,32,Male,London,Home Goods,Cookware Set,4,77,308,2025-07-01,9,Delayed,3,No,None,Medium
+C1690,48,Other,Manchester,Electronics,Headphones,3,291,873,2025-10-11,10,Delayed,2,Yes,Changed Mind,High
+C1691,18,Male,Liverpool,Electronics,Laptop,3,896,2688,2025-11-08,1,On-Time,4,No,None,Premium
+C1692,20,Female,Leeds,Electronics,Tablet,2,333,666,2025-04-09,3,On-Time,5,No,None,High
+C1693,33,Male,Glasgow,Home Goods,Chair,2,94,188,2025-07-16,2,On-Time,5,No,None,Medium
+C1694,40,Female,Manchester,Fashion,Jacket,1,77,77,2025-08-14,8,Delayed,1,Yes,Changed Mind,Low
+C1695,28,Male,London,Fashion,T-Shirt,4,20,80,2025-11-29,7,Delayed,3,No,None,Low
+C1696,29,Other,Glasgow,Home Goods,Lamp,1,192,192,2025-04-13,2,On-Time,5,No,None,Medium
+C1697,27,Male,Bristol,Home Goods,Chair,3,94,282,2025-04-16,6,Delayed,3,No,None,Medium
+C1698,49,Male,Glasgow,Electronics,Smartphone,5,953,4765,2025-12-31,3,On-Time,5,No,None,Premium
+C1699,33,Male,London,Fashion,T-Shirt,5,80,400,2025-02-27,8,Delayed,1,Yes,Changed Mind,Medium
+C1700,25,Male,London,Home Goods,Vacuum,2,187,374,2025-03-19,10,Delayed,2,Yes,Damaged Product,Medium
+C1701,55,Female,Sheffield,Fashion,Dress,5,42,210,2025-03-16,3,On-Time,5,No,None,Medium
+C1702,29,Male,Liverpool,Electronics,Headphones,5,296,1480,2025-02-11,10,Delayed,2,No,None,High
+C1703,41,Female,Liverpool,Home Goods,Cookware Set,5,136,680,2025-11-20,9,Delayed,2,Yes,Damaged Product,High
+C1704,45,Male,Manchester,Fashion,Dress,3,138,414,2025-06-30,1,On-Time,5,No,None,Medium
+C1705,25,Male,Leeds,Electronics,Tablet,5,424,2120,2025-02-02,5,On-Time,4,No,None,Premium
+C1706,45,Female,Manchester,Fashion,T-Shirt,5,38,190,2025-03-12,3,On-Time,5,No,None,Medium
+C1707,53,Female,Birmingham,Electronics,Tablet,5,730,3650,2025-02-25,6,Delayed,2,No,None,Premium
+C1708,43,Male,London,Electronics,Smartwatch,1,195,195,2025-04-15,10,Delayed,1,Yes,Damaged Product,Medium
+C1709,25,Male,Glasgow,Home Goods,Lamp,3,211,633,2025-07-19,2,On-Time,4,No,None,High
+C1710,45,Male,Bristol,Electronics,Headphones,2,290,580,2025-04-11,9,Delayed,1,Yes,Changed Mind,High
+C1711,45,Female,London,Fashion,Trainers,1,117,117,2025-09-13,6,Delayed,4,No,None,Medium
+C1712,54,Female,London,Fashion,Jacket,4,148,592,2025-11-03,7,Delayed,3,No,None,High
+C1713,58,Male,Manchester,Electronics,Headphones,3,84,252,2025-03-15,5,On-Time,4,No,None,Medium
+C1714,53,Female,Bristol,Home Goods,Chair,3,209,627,2025-06-20,9,Delayed,1,Yes,Changed Mind,High
+C1715,44,Female,Bristol,Electronics,Smartphone,4,300,1200,2025-05-23,1,On-Time,4,No,None,High
+C1716,34,Female,Bristol,Electronics,Tablet,4,352,1408,2025-06-15,5,On-Time,3,Yes,Damaged Product,High
+C1717,26,Female,Manchester,Electronics,Smartwatch,4,222,888,2025-09-18,10,Delayed,2,Yes,Late Delivery,High
+C1718,50,Male,London,Electronics,Smartwatch,2,226,452,2025-08-09,6,Delayed,2,Yes,Wrong Item,Medium
+C1719,37,Male,Manchester,Electronics,Tablet,5,707,3535,2025-03-24,7,Delayed,3,No,None,Premium
+C1720,30,Male,Liverpool,Fashion,Jeans,3,30,90,2025-07-01,4,On-Time,4,No,None,Low
+C1721,45,Male,Liverpool,Home Goods,Blender,5,245,1225,2025-11-03,1,On-Time,5,No,None,High
+C1722,65,Female,Manchester,Electronics,Tablet,5,420,2100,2025-01-10,8,Delayed,2,No,None,Premium
+C1723,46,Female,Bristol,Fashion,Jeans,4,33,132,2025-01-04,10,Delayed,3,Yes,Wrong Item,Medium
+C1724,30,Male,Sheffield,Fashion,Trainers,2,52,104,2025-12-17,4,On-Time,4,No,None,Medium
+C1725,63,Male,London,Home Goods,Chair,1,230,230,2025-12-02,3,On-Time,4,No,None,Medium
+C1726,52,Male,Manchester,Fashion,Trainers,2,54,108,2025-10-19,7,Delayed,2,No,None,Medium
+C1727,23,Female,Manchester,Electronics,Headphones,5,65,325,2025-10-08,2,On-Time,4,No,None,Medium
+C1728,35,Male,Manchester,Electronics,Headphones,2,231,462,2025-08-03,8,Delayed,1,No,None,Medium
+C1729,22,Female,Sheffield,Fashion,Jeans,4,15,60,2025-04-08,6,Delayed,4,No,None,Low
+C1730,64,Male,Sheffield,Home Goods,Lamp,1,61,61,2025-04-11,7,Delayed,2,Yes,Poor Quality,Low
+C1731,42,Male,Birmingham,Electronics,Smartwatch,4,196,784,2025-01-09,5,On-Time,5,No,None,High
+C1732,19,Other,Liverpool,Electronics,Headphones,1,274,274,2025-03-02,9,Delayed,2,Yes,Wrong Item,Medium
+C1733,27,Other,Glasgow,Home Goods,Cookware Set,5,181,905,2025-11-05,5,On-Time,4,No,None,High
+C1734,47,Male,Bristol,Home Goods,Blender,1,99,99,2025-05-26,5,On-Time,3,No,None,Low
+C1735,62,Female,Leeds,Home Goods,Cookware Set,1,123,123,2025-03-04,3,On-Time,5,No,None,Medium
+C1736,22,Female,Sheffield,Home Goods,Vacuum,1,202,202,2025-05-01,1,On-Time,5,No,None,Medium
+C1737,50,Female,Glasgow,Electronics,Laptop,2,1001,2002,2025-08-14,2,On-Time,5,No,None,Premium
+C1738,18,Male,Sheffield,Fashion,Trainers,2,63,126,2025-04-15,8,Delayed,1,No,None,Medium
+C1739,35,Female,Bristol,Fashion,T-Shirt,5,59,295,2025-09-17,1,On-Time,5,No,None,Medium
+C1740,49,Female,Leeds,Electronics,Tablet,1,220,220,2025-12-15,7,Delayed,3,No,None,Medium
+C1741,64,Female,Birmingham,Fashion,Dress,3,109,327,2025-09-12,5,On-Time,3,No,None,Medium
+C1742,28,Male,Manchester,Fashion,Trainers,5,77,385,2025-07-26,3,On-Time,5,No,None,Medium
+C1743,38,Male,Birmingham,Electronics,Tablet,1,690,690,2025-01-28,7,Delayed,2,No,None,High
+C1744,43,Male,Sheffield,Home Goods,Chair,1,58,58,2025-06-19,9,Delayed,2,Yes,Changed Mind,Low
+C1745,42,Female,Birmingham,Fashion,T-Shirt,2,45,90,2025-12-02,2,On-Time,4,No,None,Low
+C1746,39,Male,Glasgow,Home Goods,Blender,5,29,145,2025-03-17,8,Delayed,1,No,None,Medium
+C1747,44,Female,London,Electronics,Laptop,1,1141,1141,2025-04-26,9,Delayed,2,No,None,High
+C1748,30,Other,Sheffield,Electronics,Headphones,1,298,298,2025-03-10,3,On-Time,4,No,None,Medium
+C1749,50,Male,Sheffield,Fashion,Trainers,5,47,235,2025-12-20,2,On-Time,4,No,None,Medium
+C1750,51,Female,Glasgow,Electronics,Tablet,3,799,2397,2025-08-22,7,Delayed,3,No,None,Premium
+C1751,58,Male,Liverpool,Fashion,Trainers,5,102,510,2025-01-01,5,On-Time,4,No,None,High
+C1752,52,Female,Leeds,Home Goods,Lamp,5,242,1210,2025-06-16,5,On-Time,4,No,None,High
+C1753,18,Male,Manchester,Electronics,Smartwatch,3,64,192,2025-12-18,10,Delayed,1,Yes,Late Delivery,Medium
+C1754,38,Female,Glasgow,Fashion,Jeans,5,18,90,2025-08-06,5,On-Time,5,No,None,Low
+C1755,65,Female,Leeds,Fashion,T-Shirt,1,77,77,2025-09-30,4,On-Time,5,No,None,Low
+C1756,23,Female,Bristol,Electronics,Smartwatch,5,217,1085,2025-09-08,5,On-Time,4,No,None,High
+C1757,45,Female,Leeds,Home Goods,Cookware Set,3,28,84,2025-12-13,4,On-Time,5,No,None,Low
+C1758,34,Female,Bristol,Home Goods,Lamp,4,128,512,2025-12-10,6,Delayed,2,Yes,Damaged Product,High
+C1759,22,Female,Glasgow,Fashion,T-Shirt,5,23,115,2025-06-23,4,On-Time,3,No,None,Medium
+C1760,48,Female,Sheffield,Fashion,Dress,2,65,130,2025-06-19,2,On-Time,5,No,None,Medium
+C1761,22,Female,Sheffield,Fashion,Jeans,1,18,18,2025-09-03,9,Delayed,1,Yes,Changed Mind,Low
+C1762,55,Male,Liverpool,Home Goods,Lamp,1,228,228,2025-03-31,2,On-Time,5,No,None,Medium
+C1763,20,Female,Glasgow,Fashion,T-Shirt,2,30,60,2025-02-18,9,Delayed,1,Yes,Damaged Product,Low
+C1764,40,Female,Bristol,Fashion,Jeans,2,29,58,2025-10-21,10,Delayed,2,Yes,Late Delivery,Low
+C1765,54,Female,Leeds,Home Goods,Lamp,5,118,590,2025-05-30,6,Delayed,3,Yes,Wrong Item,High
+C1766,54,Male,Leeds,Electronics,Headphones,2,170,340,2025-05-12,9,Delayed,2,Yes,Changed Mind,Medium
+C1767,27,Female,Bristol,Home Goods,Vacuum,4,71,284,2025-02-28,9,Delayed,3,No,None,Medium
+C1768,27,Male,Birmingham,Electronics,Laptop,3,668,2004,2025-11-20,3,On-Time,4,No,None,Premium
+C1769,36,Female,Liverpool,Electronics,Smartphone,2,546,1092,2025-07-18,1,On-Time,5,No,None,High
+C1770,34,Male,London,Electronics,Headphones,2,54,108,2025-08-03,1,On-Time,5,No,None,Medium
+C1771,38,Female,Sheffield,Home Goods,Blender,4,39,156,2025-02-18,3,On-Time,5,No,None,Medium
+C1772,31,Other,Manchester,Home Goods,Cookware Set,1,98,98,2025-08-20,5,On-Time,3,No,None,Low
+C1773,26,Male,Leeds,Fashion,Trainers,1,47,47,2025-09-04,3,On-Time,4,No,None,Low
+C1774,63,Other,Manchester,Fashion,Trainers,5,31,155,2025-08-27,9,Delayed,2,Yes,Poor Quality,Medium
+C1775,18,Male,London,Fashion,Trainers,4,42,168,2025-06-17,9,Delayed,3,No,None,Medium
+C1776,62,Female,Glasgow,Home Goods,Chair,3,23,69,2025-02-17,3,On-Time,5,No,None,Low
+C1777,30,Female,Manchester,Fashion,Jeans,3,56,168,2025-02-20,3,On-Time,5,Yes,Changed Mind,Medium
+C1778,21,Female,London,Electronics,Smartwatch,4,158,632,2025-10-26,5,On-Time,5,No,None,High
+C1779,18,Female,Sheffield,Electronics,Smartwatch,3,123,369,2025-04-08,2,On-Time,5,No,None,Medium
+C1780,57,Female,Bristol,Home Goods,Cookware Set,1,208,208,2025-08-04,6,Delayed,2,Yes,Wrong Item,Medium
+C1781,49,Male,Birmingham,Fashion,Jeans,3,22,66,2025-06-26,7,Delayed,4,No,None,Low
+C1782,51,Male,Sheffield,Electronics,Laptop,3,666,1998,2025-03-21,9,Delayed,3,No,None,High
+C1783,45,Female,Leeds,Electronics,Smartphone,4,795,3180,2025-07-04,6,Delayed,4,No,None,Premium
+C1784,48,Female,London,Home Goods,Lamp,4,210,840,2025-01-27,3,On-Time,5,Yes,Late Delivery,High
+C1785,25,Female,Manchester,Electronics,Smartphone,3,665,1995,2025-07-14,5,On-Time,3,No,None,High
+C1786,56,Female,Leeds,Fashion,Jeans,2,23,46,2025-08-02,4,On-Time,4,No,None,Low
+C1787,43,Male,Birmingham,Home Goods,Vacuum,4,241,964,2025-12-08,5,On-Time,3,No,None,High
+C1788,51,Female,Bristol,Fashion,Jeans,5,25,125,2025-04-24,8,Delayed,2,No,None,Medium
+C1789,20,Male,Glasgow,Electronics,Laptop,5,1084,5420,2025-08-30,8,Delayed,2,Yes,Poor Quality,Premium
+C1790,29,Female,Leeds,Fashion,Dress,1,81,81,2025-05-04,6,Delayed,3,No,None,Low
+C1791,18,Male,Glasgow,Home Goods,Vacuum,3,160,480,2025-11-01,1,On-Time,5,Yes,Poor Quality,Medium
+C1792,61,Male,London,Fashion,Jeans,2,50,100,2025-03-17,8,Delayed,2,Yes,Changed Mind,Low
+C1793,22,Male,Birmingham,Home Goods,Blender,1,139,139,2025-11-07,8,Delayed,2,Yes,Wrong Item,Medium
+C1794,47,Male,Manchester,Electronics,Laptop,3,867,2601,2025-11-08,2,On-Time,5,No,None,Premium
+C1795,47,Female,Birmingham,Fashion,Dress,4,76,304,2025-07-15,4,On-Time,4,No,None,Medium
+C1796,34,Male,Birmingham,Fashion,Jeans,5,66,330,2025-12-17,2,On-Time,4,No,None,Medium
+C1797,65,Male,Liverpool,Home Goods,Vacuum,2,218,436,2025-02-13,4,On-Time,4,Yes,Wrong Item,Medium
+C1798,64,Male,Birmingham,Electronics,Tablet,5,329,1645,2025-07-05,10,Delayed,1,No,None,High
+C1799,40,Male,Birmingham,Home Goods,Blender,4,75,300,2025-12-09,7,Delayed,2,Yes,Poor Quality,Medium
+C1800,32,Male,Sheffield,Fashion,Jacket,3,99,297,2025-09-03,9,Delayed,1,No,None,Medium
+C1801,54,Male,Leeds,Electronics,Smartwatch,4,72,288,2025-03-25,8,Delayed,2,No,None,Medium
+C1802,38,Female,Manchester,Electronics,Headphones,4,152,608,2025-07-26,9,Delayed,1,No,None,High
+C1803,31,Female,Sheffield,Home Goods,Chair,5,59,295,2025-05-31,8,Delayed,2,No,None,Medium
+C1804,19,Female,Sheffield,Electronics,Tablet,2,686,1372,2025-06-05,2,On-Time,4,Yes,Damaged Product,High
+C1805,28,Male,Leeds,Electronics,Tablet,4,350,1400,2025-01-16,7,Delayed,4,No,None,High
+C1806,56,Male,Leeds,Electronics,Headphones,5,206,1030,2025-06-14,2,On-Time,5,No,None,High
+C1807,55,Female,London,Home Goods,Vacuum,2,225,450,2025-05-25,2,On-Time,5,No,None,Medium
+C1808,51,Female,Leeds,Fashion,Jacket,3,129,387,2025-02-06,4,On-Time,4,No,None,Medium
+C1809,55,Male,Liverpool,Home Goods,Lamp,3,198,594,2025-11-29,1,On-Time,5,No,None,High
+C1810,51,Male,Liverpool,Electronics,Tablet,1,396,396,2025-02-14,5,On-Time,4,No,None,Medium
+C1811,35,Male,Sheffield,Fashion,Jacket,5,134,670,2025-07-25,6,Delayed,3,No,None,High
+C1812,47,Male,Glasgow,Fashion,Jacket,2,128,256,2025-03-03,9,Delayed,1,No,None,Medium
+C1813,32,Male,London,Home Goods,Chair,4,50,200,2025-12-22,10,Delayed,2,Yes,Poor Quality,Medium
+C1814,44,Female,Glasgow,Home Goods,Chair,3,197,591,2025-11-04,8,Delayed,2,Yes,Damaged Product,High
+C1815,51,Female,Glasgow,Electronics,Laptop,2,782,1564,2025-01-19,2,On-Time,5,No,None,High
+C1816,55,Female,Sheffield,Fashion,Dress,5,120,600,2025-12-31,1,On-Time,5,No,None,High
+C1817,50,Female,Bristol,Electronics,Laptop,1,1092,1092,2025-10-27,2,On-Time,5,No,None,High
+C1818,41,Female,Sheffield,Fashion,Trainers,3,31,93,2025-01-07,7,Delayed,4,No,None,Low
+C1819,32,Female,Manchester,Electronics,Smartphone,2,964,1928,2025-09-06,4,On-Time,5,No,None,High
+C1820,47,Female,Manchester,Electronics,Smartwatch,2,62,124,2025-04-27,10,Delayed,3,No,None,Medium
+C1821,59,Male,Leeds,Electronics,Headphones,2,171,342,2025-03-09,5,On-Time,3,No,None,Medium
+C1822,34,Male,Leeds,Fashion,Jacket,5,142,710,2025-02-03,7,Delayed,3,No,None,High
+C1823,22,Male,Bristol,Electronics,Smartphone,5,405,2025,2025-07-13,3,On-Time,4,No,None,Premium
+C1824,46,Female,Leeds,Fashion,Jacket,5,109,545,2025-11-21,10,Delayed,3,No,None,High
+C1825,21,Female,Manchester,Fashion,Dress,4,106,424,2025-02-24,2,On-Time,4,No,None,Medium
+C1826,27,Male,Glasgow,Electronics,Tablet,2,298,596,2025-09-23,7,Delayed,2,No,None,High
+C1827,34,Female,Sheffield,Home Goods,Cookware Set,3,101,303,2025-02-11,5,On-Time,3,No,None,Medium
+C1828,27,Male,Birmingham,Electronics,Smartwatch,5,124,620,2025-10-24,1,On-Time,5,No,None,High
+C1829,34,Female,Liverpool,Fashion,Dress,5,123,615,2025-08-19,1,On-Time,5,No,None,High
+C1830,37,Male,Birmingham,Fashion,Trainers,2,93,186,2025-01-10,9,Delayed,3,No,None,Medium
+C1831,41,Male,Birmingham,Electronics,Smartwatch,5,118,590,2025-12-24,5,On-Time,4,No,None,High
+C1832,22,Female,Manchester,Electronics,Tablet,4,666,2664,2025-05-08,1,On-Time,4,No,None,Premium
+C1833,51,Male,Birmingham,Electronics,Tablet,4,566,2264,2025-06-28,7,Delayed,2,No,None,Premium
+C1834,23,Male,Sheffield,Home Goods,Chair,5,81,405,2025-07-12,9,Delayed,2,No,None,Medium
+C1835,19,Male,Bristol,Fashion,Jeans,2,30,60,2025-04-02,1,On-Time,5,No,None,Low
+C1836,30,Female,London,Fashion,Dress,2,127,254,2025-08-19,10,Delayed,2,No,None,Medium
+C1837,60,Female,Leeds,Fashion,T-Shirt,2,29,58,2025-03-19,4,On-Time,4,No,None,Low
+C1838,60,Male,London,Electronics,Headphones,1,266,266,2025-03-26,3,On-Time,5,No,None,Medium
+C1839,65,Female,Glasgow,Fashion,Dress,5,147,735,2025-01-30,5,On-Time,4,No,None,High
+C1840,28,Female,Sheffield,Home Goods,Cookware Set,2,202,404,2025-08-01,7,Delayed,4,Yes,Changed Mind,Medium
+C1841,64,Male,Sheffield,Electronics,Laptop,4,1146,4584,2025-02-18,8,Delayed,3,No,None,Premium
+C1842,40,Male,Liverpool,Electronics,Smartwatch,3,232,696,2025-09-22,2,On-Time,5,No,None,High
+C1843,33,Male,Sheffield,Electronics,Laptop,3,869,2607,2025-05-25,7,Delayed,3,No,None,Premium
+C1844,48,Male,Leeds,Fashion,Trainers,2,78,156,2025-03-10,1,On-Time,5,No,None,Medium
+C1845,28,Female,Sheffield,Home Goods,Vacuum,3,230,690,2025-02-27,7,Delayed,3,No,None,High
+C1846,33,Male,Birmingham,Electronics,Headphones,3,151,453,2025-07-04,8,Delayed,2,Yes,Wrong Item,Medium
+C1847,25,Female,Liverpool,Fashion,Jacket,1,139,139,2025-03-03,2,On-Time,5,No,None,Medium
+C1848,21,Female,Leeds,Electronics,Smartphone,4,818,3272,2025-11-04,9,Delayed,1,Yes,Changed Mind,Premium
+C1849,57,Male,Bristol,Home Goods,Vacuum,4,49,196,2025-10-23,1,On-Time,4,No,None,Medium
+C1850,21,Female,Bristol,Electronics,Smartphone,1,766,766,2025-06-15,6,Delayed,2,Yes,Wrong Item,High
+C1851,42,Male,Bristol,Fashion,Dress,1,88,88,2025-06-20,1,On-Time,5,No,None,Low
+C1852,20,Other,Bristol,Fashion,Jacket,3,128,384,2025-03-04,3,On-Time,4,No,None,Medium
+C1853,49,Female,Birmingham,Fashion,Trainers,5,45,225,2025-05-27,6,Delayed,3,Yes,Late Delivery,Medium
+C1854,20,Female,Sheffield,Fashion,Jacket,3,150,450,2025-11-02,3,On-Time,5,No,None,Medium
+C1855,44,Female,London,Electronics,Tablet,1,431,431,2025-06-10,8,Delayed,2,Yes,Damaged Product,Medium
+C1856,46,Male,Leeds,Electronics,Tablet,4,783,3132,2025-05-21,5,On-Time,3,No,None,Premium
+C1857,49,Female,Birmingham,Electronics,Smartwatch,3,259,777,2025-11-30,2,On-Time,5,No,None,High
+C1858,36,Female,Bristol,Electronics,Tablet,5,791,3955,2025-04-07,4,On-Time,3,No,None,Premium
+C1859,38,Female,Glasgow,Fashion,Jeans,3,56,168,2025-08-09,9,Delayed,1,Yes,Damaged Product,Medium
+C1860,22,Female,Sheffield,Electronics,Laptop,2,872,1744,2025-02-12,4,On-Time,4,No,None,High
+C1861,35,Female,London,Electronics,Smartphone,3,472,1416,2025-10-19,10,Delayed,2,No,None,High
+C1862,45,Male,Glasgow,Fashion,Jeans,1,21,21,2025-04-18,10,Delayed,3,Yes,Damaged Product,Low
+C1863,59,Male,Liverpool,Home Goods,Lamp,4,174,696,2025-09-23,8,Delayed,2,No,None,High
+C1864,39,Female,Glasgow,Fashion,T-Shirt,4,24,96,2025-04-05,5,On-Time,5,No,None,Low
+C1865,38,Male,Liverpool,Electronics,Laptop,1,1145,1145,2025-09-19,10,Delayed,3,No,None,High
+C1866,23,Female,Liverpool,Electronics,Smartphone,2,847,1694,2025-11-09,1,On-Time,5,No,None,High
+C1867,18,Female,Bristol,Home Goods,Lamp,1,172,172,2025-03-12,7,Delayed,2,No,None,Medium
+C1868,22,Male,Liverpool,Electronics,Smartwatch,3,55,165,2025-08-07,3,On-Time,5,No,None,Medium
+C1869,58,Male,Manchester,Electronics,Smartphone,1,514,514,2025-01-21,10,Delayed,2,Yes,Late Delivery,High
+C1870,29,Female,Leeds,Fashion,T-Shirt,1,20,20,2025-04-02,8,Delayed,2,Yes,Late Delivery,Low
+C1871,43,Male,Leeds,Fashion,Jacket,2,68,136,2025-05-07,3,On-Time,5,No,None,Medium
+C1872,63,Female,Bristol,Fashion,Dress,3,64,192,2025-03-21,1,On-Time,4,No,None,Medium
+C1873,51,Male,Manchester,Electronics,Smartphone,5,738,3690,2025-11-08,5,On-Time,5,No,None,Premium
+C1874,31,Female,Glasgow,Electronics,Smartphone,5,985,4925,2025-08-26,2,On-Time,5,No,None,Premium
+C1875,43,Male,Birmingham,Home Goods,Lamp,4,171,684,2025-07-01,4,On-Time,5,No,None,High
+C1876,62,Female,Glasgow,Electronics,Smartphone,1,630,630,2025-01-25,1,On-Time,5,No,None,High
+C1877,44,Male,Sheffield,Fashion,Jacket,4,65,260,2025-06-05,9,Delayed,3,No,None,Medium
+C1878,26,Female,Birmingham,Fashion,Jacket,2,137,274,2025-01-05,6,Delayed,3,No,None,Medium
+C1879,43,Male,Liverpool,Fashion,Trainers,5,57,285,2025-04-30,8,Delayed,2,Yes,Wrong Item,Medium
+C1880,64,Female,London,Electronics,Headphones,1,180,180,2025-10-04,4,On-Time,5,No,None,Medium
+C1881,39,Female,Birmingham,Electronics,Smartwatch,2,124,248,2025-01-18,9,Delayed,2,No,None,Medium
+C1882,64,Male,London,Fashion,Dress,2,77,154,2025-07-17,2,On-Time,5,No,None,Medium
+C1883,47,Male,Leeds,Home Goods,Lamp,1,208,208,2025-02-26,9,Delayed,2,No,None,Medium
+C1884,60,Male,London,Home Goods,Chair,2,97,194,2025-04-03,5,On-Time,4,No,None,Medium
+C1885,65,Female,Leeds,Electronics,Laptop,1,620,620,2025-01-19,6,Delayed,3,No,None,High
+C1886,34,Female,Manchester,Electronics,Tablet,1,765,765,2025-12-19,3,On-Time,5,No,None,High
+C1887,43,Female,Manchester,Home Goods,Lamp,3,203,609,2025-07-12,4,On-Time,5,No,None,High
+C1888,53,Male,Bristol,Fashion,T-Shirt,4,73,292,2025-08-25,6,Delayed,3,No,None,Medium
+C1889,18,Male,Bristol,Home Goods,Lamp,2,91,182,2025-10-04,7,Delayed,2,No,None,Medium
+C1890,25,Female,Liverpool,Electronics,Smartwatch,2,228,456,2025-08-15,1,On-Time,4,Yes,Late Delivery,Medium
+C1891,52,Female,Birmingham,Fashion,Dress,3,59,177,2025-08-21,7,Delayed,3,No,None,Medium
+C1892,32,Other,Liverpool,Fashion,T-Shirt,3,73,219,2025-02-09,1,On-Time,4,No,None,Medium
+C1893,64,Male,Leeds,Fashion,T-Shirt,3,23,69,2025-11-19,5,On-Time,4,No,None,Low
+C1894,39,Female,Liverpool,Fashion,Jacket,5,148,740,2025-06-02,6,Delayed,4,No,None,High
+C1895,31,Male,London,Electronics,Smartwatch,5,178,890,2025-05-07,2,On-Time,5,Yes,Changed Mind,High
+C1896,43,Male,Leeds,Fashion,Jacket,5,68,340,2025-08-25,10,Delayed,1,Yes,Changed Mind,Medium
+C1897,45,Female,Bristol,Electronics,Tablet,1,390,390,2025-02-24,9,Delayed,3,No,None,Medium
+C1898,40,Female,Manchester,Fashion,Jeans,2,70,140,2025-06-21,10,Delayed,2,No,None,Medium
+C1899,31,Other,Bristol,Home Goods,Cookware Set,4,215,860,2025-04-19,6,Delayed,3,Yes,Late Delivery,High
+C1900,41,Male,Birmingham,Electronics,Headphones,1,84,84,2025-12-20,7,Delayed,2,Yes,Wrong Item,Low
+C1901,19,Male,Leeds,Home Goods,Blender,2,142,284,2025-07-03,10,Delayed,1,No,None,Medium
+C1902,62,Female,Leeds,Electronics,Laptop,2,986,1972,2025-07-17,8,Delayed,2,Yes,Poor Quality,High
+C1903,43,Female,London,Fashion,Trainers,3,36,108,2025-03-28,10,Delayed,3,No,None,Medium
+C1904,31,Male,Birmingham,Home Goods,Cookware Set,3,46,138,2025-07-20,1,On-Time,5,No,None,Medium
+C1905,24,Male,Manchester,Electronics,Smartwatch,1,50,50,2025-12-03,8,Delayed,2,Yes,Changed Mind,Low
+C1906,20,Male,Glasgow,Electronics,Laptop,3,1063,3189,2025-11-18,4,On-Time,4,No,None,Premium
+C1907,64,Female,Leeds,Fashion,Jeans,2,58,116,2025-10-02,10,Delayed,2,No,None,Medium
+C1908,40,Male,Leeds,Electronics,Smartwatch,3,136,408,2025-07-30,8,Delayed,2,Yes,Wrong Item,Medium
+C1909,63,Male,London,Fashion,Jacket,5,80,400,2025-04-28,6,Delayed,3,No,None,Medium
+C1910,60,Male,Liverpool,Home Goods,Vacuum,3,142,426,2025-07-10,9,Delayed,2,Yes,Late Delivery,Medium
+C1911,64,Male,Sheffield,Fashion,T-Shirt,2,56,112,2025-02-11,4,On-Time,4,No,None,Medium
+C1912,62,Male,Manchester,Electronics,Smartwatch,1,166,166,2025-02-11,2,On-Time,5,Yes,Changed Mind,Medium
+C1913,35,Female,Bristol,Fashion,T-Shirt,4,47,188,2025-11-11,2,On-Time,5,No,None,Medium
+C1914,55,Male,Birmingham,Fashion,Jeans,3,64,192,2025-10-03,5,On-Time,4,No,None,Medium
+C1915,52,Female,Leeds,Electronics,Smartphone,2,874,1748,2025-11-25,10,Delayed,2,No,None,High
+C1916,32,Male,Leeds,Fashion,Dress,4,139,556,2025-01-17,9,Delayed,1,Yes,Poor Quality,High
+C1917,42,Female,Bristol,Fashion,T-Shirt,4,51,204,2025-10-10,3,On-Time,5,No,None,Medium
+C1918,54,Female,Manchester,Fashion,T-Shirt,5,73,365,2025-09-15,8,Delayed,3,No,None,Medium
+C1919,45,Female,Sheffield,Electronics,Laptop,4,982,3928,2025-03-04,4,On-Time,4,No,None,Premium
+C1920,27,Female,Liverpool,Fashion,T-Shirt,2,62,124,2025-03-03,6,Delayed,3,No,None,Medium
+C1921,56,Male,Leeds,Electronics,Headphones,2,182,364,2025-04-10,10,Delayed,2,Yes,Wrong Item,Medium
+C1922,34,Male,Sheffield,Electronics,Tablet,3,759,2277,2025-01-19,6,Delayed,2,Yes,Wrong Item,Premium
+C1923,56,Female,Manchester,Home Goods,Lamp,3,243,729,2025-01-17,3,On-Time,5,No,None,High
+C1924,39,Other,Bristol,Fashion,Jeans,3,17,51,2025-11-21,5,On-Time,4,No,None,Low
+C1925,43,Female,London,Electronics,Laptop,4,971,3884,2025-09-03,3,On-Time,5,No,None,Premium
+C1926,61,Female,Liverpool,Electronics,Smartphone,4,986,3944,2025-09-08,1,On-Time,5,No,None,Premium
+C1927,42,Female,Birmingham,Electronics,Headphones,5,239,1195,2025-03-22,7,Delayed,3,No,None,High
+C1928,34,Male,Leeds,Electronics,Tablet,3,315,945,2025-02-08,4,On-Time,4,No,None,High
+C1929,30,Male,Manchester,Electronics,Tablet,1,469,469,2025-02-05,7,Delayed,4,No,None,Medium
+C1930,37,Female,London,Electronics,Headphones,5,240,1200,2025-07-16,3,On-Time,4,No,None,High
+C1931,42,Female,Birmingham,Fashion,T-Shirt,1,75,75,2025-06-07,5,On-Time,5,No,None,Low
+C1932,21,Male,Glasgow,Fashion,Dress,4,70,280,2025-07-23,5,On-Time,4,No,None,Medium
+C1933,27,Female,Manchester,Fashion,Jacket,5,134,670,2025-07-15,2,On-Time,5,No,None,High
+C1934,20,Male,Manchester,Fashion,T-Shirt,5,31,155,2025-08-04,10,Delayed,3,No,None,Medium
+C1935,58,Female,Birmingham,Electronics,Laptop,2,623,1246,2025-10-12,2,On-Time,5,No,None,High
+C1936,62,Male,London,Home Goods,Lamp,4,135,540,2025-07-15,4,On-Time,4,No,None,High
+C1937,35,Male,Glasgow,Home Goods,Lamp,4,170,680,2025-11-03,4,On-Time,4,No,None,High
+C1938,64,Female,Sheffield,Home Goods,Lamp,5,101,505,2025-06-01,4,On-Time,4,No,None,High
+C1939,53,Male,Sheffield,Home Goods,Blender,4,69,276,2025-01-14,6,Delayed,3,Yes,Wrong Item,Medium
+C1940,64,Female,Bristol,Home Goods,Chair,5,225,1125,2025-11-21,2,On-Time,5,Yes,Late Delivery,High
+C1941,39,Female,London,Fashion,Dress,2,118,236,2025-05-26,6,Delayed,3,No,None,Medium
+C1942,51,Female,Liverpool,Electronics,Laptop,5,678,3390,2025-02-26,7,Delayed,2,No,None,Premium
+C1943,64,Male,Leeds,Fashion,Dress,4,109,436,2025-07-30,10,Delayed,2,Yes,Changed Mind,Medium
+C1944,25,Male,Birmingham,Fashion,T-Shirt,4,41,164,2025-09-25,3,On-Time,4,No,None,Medium
+C1945,57,Male,Bristol,Fashion,T-Shirt,5,29,145,2025-07-29,8,Delayed,2,Yes,Late Delivery,Medium
+C1946,61,Other,Glasgow,Fashion,Jacket,5,89,445,2025-01-17,2,On-Time,5,No,None,Medium
+C1947,36,Female,Birmingham,Electronics,Smartphone,5,546,2730,2025-10-13,8,Delayed,1,No,None,Premium
+C1948,59,Female,Birmingham,Electronics,Smartwatch,3,57,171,2025-12-10,5,On-Time,4,No,None,Medium
+C1949,58,Female,London,Home Goods,Lamp,4,98,392,2025-07-22,2,On-Time,5,No,None,Medium
+C1950,54,Female,Leeds,Fashion,Dress,4,42,168,2025-04-09,7,Delayed,2,Yes,Damaged Product,Medium
+C1951,23,Female,Liverpool,Fashion,T-Shirt,3,76,228,2025-10-06,2,On-Time,5,No,None,Medium
+C1952,43,Male,Sheffield,Electronics,Tablet,5,758,3790,2025-07-28,6,Delayed,2,No,None,Premium
+C1953,51,Female,Manchester,Electronics,Laptop,2,960,1920,2025-05-09,10,Delayed,2,No,None,High
+C1954,62,Male,Manchester,Home Goods,Vacuum,5,117,585,2025-12-01,3,On-Time,4,No,None,High
+C1955,23,Female,Birmingham,Fashion,Jeans,5,75,375,2025-10-15,9,Delayed,3,No,None,Medium
+C1956,54,Female,Sheffield,Home Goods,Cookware Set,3,179,537,2025-09-09,3,On-Time,5,No,None,High
+C1957,50,Female,Sheffield,Fashion,Trainers,4,42,168,2025-09-22,3,On-Time,5,No,None,Medium
+C1958,39,Male,Leeds,Fashion,Jeans,5,15,75,2025-09-28,5,On-Time,5,No,None,Low
+C1959,38,Male,Glasgow,Electronics,Tablet,4,745,2980,2025-07-07,7,Delayed,3,No,None,Premium
+C1960,23,Male,Glasgow,Fashion,T-Shirt,1,76,76,2025-08-02,8,Delayed,3,No,None,Low
+C1961,23,Male,Bristol,Fashion,Jacket,4,118,472,2025-10-10,7,Delayed,3,No,None,Medium
+C1962,65,Male,London,Fashion,Jacket,2,147,294,2025-07-30,9,Delayed,1,No,None,Medium
+C1963,21,Female,Leeds,Fashion,Dress,2,117,234,2025-12-31,5,On-Time,4,No,None,Medium
+C1964,47,Female,Leeds,Home Goods,Vacuum,5,140,700,2025-03-17,10,Delayed,2,No,None,High
+C1965,28,Male,London,Electronics,Smartphone,4,648,2592,2025-05-28,3,On-Time,4,No,None,Premium
+C1966,47,Male,Sheffield,Home Goods,Lamp,5,117,585,2025-11-17,6,Delayed,4,No,None,High
+C1967,48,Male,Glasgow,Electronics,Smartwatch,3,131,393,2025-08-01,5,On-Time,4,No,None,Medium
+C1968,41,Female,Glasgow,Fashion,Jacket,2,110,220,2025-04-19,4,On-Time,5,Yes,Wrong Item,Medium
+C1969,26,Female,Sheffield,Electronics,Smartwatch,5,270,1350,2025-05-09,2,On-Time,4,No,None,High
+C1970,20,Female,Glasgow,Electronics,Tablet,3,749,2247,2025-01-10,7,Delayed,3,Yes,Changed Mind,Premium
+C1971,48,Female,Birmingham,Fashion,Jacket,5,53,265,2025-02-16,5,On-Time,5,No,None,Medium
+C1972,57,Other,Leeds,Electronics,Smartphone,4,691,2764,2025-11-11,4,On-Time,5,No,None,Premium
+C1973,54,Female,Manchester,Fashion,Jacket,4,130,520,2025-04-06,8,Delayed,2,Yes,Wrong Item,High
+C1974,53,Male,London,Home Goods,Chair,4,73,292,2025-04-13,9,Delayed,2,Yes,Wrong Item,Medium
+C1975,41,Female,Glasgow,Electronics,Laptop,4,985,3940,2025-12-08,9,Delayed,1,Yes,Wrong Item,Premium
+C1976,48,Male,Bristol,Home Goods,Vacuum,1,228,228,2025-05-26,3,On-Time,5,No,None,Medium
+C1977,23,Female,Glasgow,Fashion,T-Shirt,3,70,210,2025-01-27,3,On-Time,5,No,None,Medium
+C1978,19,Male,Glasgow,Fashion,Jeans,3,75,225,2025-08-08,5,On-Time,3,No,None,Medium
+C1979,37,Female,Liverpool,Electronics,Smartwatch,4,294,1176,2025-01-18,5,On-Time,5,No,None,High
+C1980,45,Female,Birmingham,Electronics,Headphones,1,71,71,2025-06-16,10,Delayed,2,No,None,Low
+C1981,28,Female,London,Electronics,Tablet,4,490,1960,2025-03-23,2,On-Time,5,No,None,High
+C1982,21,Female,Liverpool,Electronics,Tablet,1,684,684,2025-03-13,1,On-Time,5,No,None,High
+C1983,32,Male,Liverpool,Electronics,Tablet,4,505,2020,2025-11-06,8,Delayed,3,No,None,Premium
+C1984,23,Male,Bristol,Fashion,Trainers,2,72,144,2025-09-11,3,On-Time,5,No,None,Medium
+C1985,47,Male,Leeds,Home Goods,Chair,2,36,72,2025-06-11,1,On-Time,5,No,None,Low
+C1986,55,Male,Bristol,Home Goods,Cookware Set,5,99,495,2025-11-23,1,On-Time,4,No,None,Medium
+C1987,19,Female,Leeds,Fashion,Trainers,4,87,348,2025-02-07,2,On-Time,4,No,None,Medium
+C1988,32,Male,Leeds,Electronics,Tablet,3,702,2106,2025-07-20,6,Delayed,3,No,None,Premium
+C1989,28,Other,London,Electronics,Smartphone,5,429,2145,2025-07-19,6,Delayed,3,No,None,Premium
+C1990,25,Female,Glasgow,Electronics,Smartwatch,2,181,362,2025-09-12,3,On-Time,5,No,None,Medium
+C1991,43,Female,London,Electronics,Smartwatch,4,134,536,2025-06-28,4,On-Time,4,Yes,Damaged Product,High
+C1992,62,Male,Birmingham,Fashion,Trainers,5,68,340,2025-02-04,2,On-Time,4,No,None,Medium
+C1993,61,Female,Leeds,Fashion,Jacket,4,137,548,2025-03-23,2,On-Time,4,Yes,Damaged Product,High
+C1994,22,Female,Liverpool,Electronics,Headphones,2,143,286,2025-08-08,7,Delayed,2,No,None,Medium
+C1995,23,Female,Glasgow,Electronics,Tablet,5,589,2945,2025-06-07,1,On-Time,5,No,None,Premium
+C1996,43,Female,Manchester,Home Goods,Lamp,2,100,200,2025-01-04,7,Delayed,3,No,None,Medium
+C1997,21,Female,Birmingham,Home Goods,Cookware Set,1,250,250,2025-06-16,1,On-Time,5,No,None,Medium
+C1998,36,Male,London,Electronics,Headphones,2,266,532,2025-07-23,6,Delayed,3,Yes,Changed Mind,High
+C1999,37,Female,Bristol,Home Goods,Blender,4,88,352,2025-07-13,3,On-Time,5,No,None,Medium
