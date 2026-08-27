@@ -106,7 +106,7 @@ with tab1:
     st.write("Summary of key metrics and charts.")
     st.dataframe(filtered_df.head(10))
 
-     st.subheader("Delivery Time vs Customer Rating")
+    st.subheader("Delivery Time vs Customer Rating")
     plt.figure(figsize=(9, 6))
     sns.scatterplot(
         data=filtered_df,
