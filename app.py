@@ -13,7 +13,8 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Ecommerce_Dataset.csv")
+    try:
+        df = pd.read_csv("Ecommerce_Dataset.csv")
     except Exception as e:
         st.error(f"Error loading data: {e}")
         return pd.DataFrame()
