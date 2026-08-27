@@ -14,6 +14,9 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     df = pd.read_csv("Ecommerce_Dataset.csv")
+    except Exception as e:
+        st.error(f"Error loading data: {e}")
+        return pd.DataFrame()
     df["Order_Date"] = pd.to_datetime(df["Order_Date"])
     df["Return_Reason"] = df["Return_Reason"].fillna("No Return")
     df["Return_Flag"] = np.where(df["Returned"] == "Yes", 1, 0)
